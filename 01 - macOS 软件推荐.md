@@ -5,7 +5,7 @@
 | 名称                                                         | 功能简述                                                     | 相关 |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
 | [AppCleaner](https://freemacsoft.net/appcleaner/)            | 超轻量级的卸载专家，简洁干净。                               |      |
-| [CleanMyMac X](https://macpaw.com/zh/download/cleanmymac)「推荐」 | 强大的 Mac 系统垃圾清理工具，可以清除 Mac 系统缓存、多余的语言包、应用程序、PowerPc 软件运行库等。 |      |
+| [CleanMyMac X](https://macpaw.com/zh/download/cleanmymac)「★」 | 强大的 Mac 系统垃圾清理工具，可以清除 Mac 系统缓存、多余的语言包、应用程序、PowerPc 软件运行库等。 |      |
 | [DaisyDisk](https://apps.apple.com/cn/app/daisydisk/id411643860?mt=12) | 系统清理工具，帮助了解磁盘使用状况，进行准确的分析，清除占用磁盘空间的文件。 |      |
 | [MacBooster](https://www.macbooster.net/)                    | 功能全的 Mac 清理工具。清理垃圾、删掉恶意软件、病毒文件。    |      |
 | [OmniDiskSweeper](https://www.omnigroup.com/download/latest/OmniDiskSweeper) | 查看磁盘存储状况，自动扫描 Mac 电脑中的软件，帮助用户查找，筛选，剔除多余的，不常用的软件应用。 |      |
@@ -47,10 +47,10 @@
 
 ### 压缩 / 解压
 
-| 名称                   | 功能简述                                                     | 相关 |
-| ---------------------- | ------------------------------------------------------------ | ---- |
-| BetterZip 3            | 压缩解压缩工具支持格式 ZIP、TAR、TGZ、TBZ、TXZ (new)、7-ZIP、RAR。 |      |
-| The Unarchiver「推荐」 | 压缩 / 解压工具                                              |      |
+| 名称                | 功能简述                                                     | 相关 |
+| ------------------- | ------------------------------------------------------------ | ---- |
+| BetterZip 3         | 压缩解压缩工具支持格式 ZIP、TAR、TGZ、TBZ、TXZ (new)、7-ZIP、RAR。 |      |
+| The Unarchiver「★」 | 压缩 / 解压工具                                              |      |
 
 ### 截屏 / 录屏
 
@@ -62,7 +62,7 @@
 | Napkin           | 图像注释和标记                                               |      |
 | PicGIF           | 制作 GIF                                                     |      |
 | QuickTime Player | 视频录制                                                     |      |
-| Xnip「推荐」     | 方便好用的截图工具。功能包括：窗口截图 / 滚动截图 / 取色器功能 / 贴图功能 / 丰富的标注功能。 |      |
+| Xnip「★」        | 方便好用的截图工具。功能包括：窗口截图 / 滚动截图 / 取色器功能 / 贴图功能 / 丰富的标注功能。 |      |
 | iShot            | 截图工具                                                     |      |
 | snipaste         | 简单但强大的截图工具。主要功能：截图、贴图、取色。           |      |
 | 截图（Jietu）    | 功能包括：区域截图 / 窗口截图 / 全屏截图 / 倒计时截图 / 录制屏幕，保存可自定义选择图片和视频质量。 |      |
@@ -85,7 +85,7 @@
 | 名称                      | 功能简述   | 相关 |
 | ------------------------- | ---------- | ---- |
 | Dribbble Screen Saver     | 屏保       |      |
-| Fliqlo「推荐」            | 屏保       |      |
+| Fliqlo「★」               | 屏保       |      |
 | Padbury                   | 屏保       |      |
 | Soundstream               | 屏保       |      |
 | SwiftBubble               | 屏保       |      |
@@ -111,25 +111,25 @@
 ### 菜单栏管理
 
 
-| 名称          | 功能简述       | 相关 |
-| ------------- | -------------- | ---- |
-| Bartender     | 菜单栏管理工具 |      |
-| Dozer「推荐」 | 菜单栏管理工具 |      |
+| 名称       | 功能简述       | 相关 |
+| ---------- | -------------- | ---- |
+| Bartender  | 菜单栏管理工具 |      |
+| Dozer「★」 | 菜单栏管理工具 |      |
 
 
 
 ### 密码安全
 
-| 名称              | 功能简述                                                     | 相关 |
-| ----------------- | ------------------------------------------------------------ | ---- |
-| 1Password「推荐」 | 密码工具                                                     |      |
-| BreakTime         | 设置 40 分钟强制锁住系统                                     |      |
-| Dashlane          | 密码工具                                                     |      |
-| KeePassX          | 一个免费的，[开源](https://github.com/keepassx/keepassx)的，体积小的密码管理器。 |      |
-| LastPass          | 密码管理器和安全的数字笔记。                                 |      |
-| MacPass           | [开源](https://github.com/mstarke/MacPass)的密码管理器。     |      |
-| Near Lock         | 根据你的 iOS 设备和 Mac 的距离来自动解锁和锁上你的 Mac       |      |
-| Tap               | 指头解锁 Mac                                                 |      |
+| 名称           | 功能简述                                                     | 相关 |
+| -------------- | ------------------------------------------------------------ | ---- |
+| 1Password「★」 | 密码工具                                                     |      |
+| BreakTime      | 设置 40 分钟强制锁住系统                                     |      |
+| Dashlane       | 密码工具                                                     |      |
+| KeePassX       | 一个免费的，[开源](https://github.com/keepassx/keepassx)的，体积小的密码管理器。 |      |
+| LastPass       | 密码管理器和安全的数字笔记。                                 |      |
+| MacPass        | [开源](https://github.com/mstarke/MacPass)的密码管理器。     |      |
+| Near Lock      | 根据你的 iOS 设备和 Mac 的距离来自动解锁和锁上你的 Mac       |      |
+| Tap            | 指头解锁 Mac                                                 |      |
 
 ### 磁盘工具
 
