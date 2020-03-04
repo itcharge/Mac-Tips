@@ -5,7 +5,7 @@
 | 名称                                                         | 功能简述                                                     | 相关 |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
 | [AppCleaner](https://freemacsoft.net/appcleaner/)            | 超轻量级的卸载专家，简洁干净。                               |      |
-| [CleanMyMac X](https://macpaw.com/zh/download/cleanmymac)「❤」 | 强大的 Mac 系统垃圾清理工具，可以清除 Mac 系统缓存、多余的语言包、应用程序、PowerPc 软件运行库等。 |      |
+| [CleanMyMac X](https://macpaw.com/zh/download/cleanmymac)「推荐」 | 强大的 Mac 系统垃圾清理工具，可以清除 Mac 系统缓存、多余的语言包、应用程序、PowerPc 软件运行库等。 |      |
 | [DaisyDisk](https://apps.apple.com/cn/app/daisydisk/id411643860?mt=12) | 系统清理工具，帮助了解磁盘使用状况，进行准确的分析，清除占用磁盘空间的文件。 |      |
 | [MacBooster](https://www.macbooster.net/)                    | 功能全的 Mac 清理工具。清理垃圾、删掉恶意软件、病毒文件。    |      |
 | [OmniDiskSweeper](https://www.omnigroup.com/download/latest/OmniDiskSweeper) | 查看磁盘存储状况，自动扫描 Mac 电脑中的软件，帮助用户查找，筛选，剔除多余的，不常用的软件应用。 |      |
@@ -13,26 +13,26 @@
 
 ### 系统监控
 
-| 名称        | 功能简述                   | 相关 |
-| ----------- | -------------------------- | ---- |
-| BitBar      | 信息展示到 Mac OS 的菜单栏 |      |
-| iStat Menus | 系统监控工具               |      |
-| iStat pro   | 系统监控工具               |      |
+| 名称                                              | 功能简述                                                     | 相关                                       |
+| ------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------ |
+| [BitBar](https://getbitbar.com/)                  | 将任意内容信息展示到 Mac OS 的菜单栏。                       | [#](https://www.waerfa.com/bitbar-review)  |
+| [iStat Menus](https://bjango.com/mac/istatmenus/) | 电脑硬件信息监控软件，实时监控 CPU、GPU、内存、硬盘、网络、温度、电池以及系统时间。 | [#](https://zhuanlan.zhihu.com/p/85635874) |
 
 ### 系统增强
 
-| 名称            | 功能简述                 | 相关 |
-| --------------- | ------------------------ | ---- |
-| BetterTouchTool | 触摸板增强软件           |      |
-| Boom 2          | 音效增强                 |      |
-| Flux            | 调节屏幕色温工具         |      |
-| Noizio          | 白噪音                   |      |
-| Pin             |                          |      |
-| Popclip         | 复制、拷贝               |      |
-| Scroll Reverser | 触控板跟鼠标滚轮方向相反 |      |
-| Tickeys         | 键盘音效工具             |      |
-| atext           | 文本替换应用             |      |
-| textexpander    | 文本替换应用             |      |
+| 名称                                                         | 功能简述                                                     | 相关                              |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | --------------------------------- |
+| [BetterTouchTool](https://folivora.ai/)                      | 触摸板增强软件，用来代替默认的系统操作方式（组合键、修饰键、手势等）。 | [#](https://sspai.com/post/27094) |
+| [Boom 2](https://www.globaldelight.com/boom/boom2)           | 系统级音频增强程序和均衡器                                   |                                   |
+| [f.lux](https://justgetflux.com/)                            | 调节屏幕色温工具，可以根据时间变化来改变屏幕色温。           |                                   |
+| [Noizio](https://itunes.apple.com/us/app/noizio/id928871589) | 环境噪音模拟工具，提供多种白噪音。                           |                                   |
+| [Pin](https://apps.apple.com/cn/app/pin-%E5%89%AA%E8%B4%B4%E6%9D%BF%E6%89%A9%E5%B1%95/id1092997957?mt=12) | iOS / Mac 多平台剪贴板扩展工具。除了复制粘贴，还提供复制历史、[搜索](https://www.iplaysoft.com/tag/搜索)、翻译、分词、打开链接、抓图、启动应用、预览网页等功能 |                                   |
+| [Popclip](https://pilotmoon.com/popclip/)                    | 增强型复制粘贴工具。                                         |                                   |
+| [Scroll Reverser](https://pilotmoon.com/scrollreverser/)     | 鼠标增强软件，可以根据更改鼠标滚动和滑动的方向。             |                                   |
+| [Tickeys](http://www.yingdev.com/projects/tickeys)           | 强大的键盘音效软件，提供多种键盘音效：打字机、冒泡、机械键盘、剑气等。 |                                   |
+| [atext](https://www.trankynam.com/atext/)                    | 文本输入增强软件，将常用的短语替换为定义的缩写词。           | [#](https://sspai.com/post/44040) |
+| [textexpander](https://textexpander.com/)                    | 文本替换应用，除了缩写词替换短语外还提供输出日期、粘贴板内容、图片、指定光标位置、设置模版输出并让用户输入其中部分内容等高级功能。 |                                   |
+| [Boom 3D](https://www.globaldelight.com/boom/)               | 系统级音频增强程序和均衡器，增加了 3D 音效增强。             |                                   |
 
 ### 快捷工具
 
@@ -47,24 +47,24 @@
 
 ### 压缩 / 解压
 
-| 名称                | 功能简述                                                           | 相关 |
-| ------------------- | ------------------------------------------------------------------ | ---- |
-| BetterZip 3         | 压缩解压缩工具支持格式 ZIP、TAR、TGZ、TBZ、TXZ (new)、7-ZIP、RAR。 |      |
-| The Unarchiver「❤」 | 压缩 / 解压工具                                                    |      |
+| 名称                   | 功能简述                                                     | 相关 |
+| ---------------------- | ------------------------------------------------------------ | ---- |
+| BetterZip 3            | 压缩解压缩工具支持格式 ZIP、TAR、TGZ、TBZ、TXZ (new)、7-ZIP、RAR。 |      |
+| The Unarchiver「推荐」 | 压缩 / 解压工具                                              |      |
 
 ### 截屏 / 录屏
 
 
-| 名称             | 功能简述                                                                                           | 相关 |
-| ---------------- | -------------------------------------------------------------------------------------------------- | :--- |
-| Kap              | GIF 录屏                                                                                           |      |
-| LICEcap          | 制作 GIF                                                                                           |      |
-| Napkin           | 图像注释和标记                                                                                     |      |
-| PicGIF           | 制作 GIF                                                                                           |      |
-| QuickTime Player | 视频录制                                                                                           |      |
-| Xnip「❤」        | 方便好用的截图工具。功能包括：窗口截图 / 滚动截图 / 取色器功能 / 贴图功能 / 丰富的标注功能。       |      |
-| iShot            | 截图工具                                                                                           |      |
-| snipaste         | 简单但强大的截图工具。主要功能：截图、贴图、取色。                                                 |      |
+| 名称             | 功能简述                                                     | 相关 |
+| ---------------- | ------------------------------------------------------------ | :--- |
+| Kap              | GIF 录屏                                                     |      |
+| LICEcap          | 制作 GIF                                                     |      |
+| Napkin           | 图像注释和标记                                               |      |
+| PicGIF           | 制作 GIF                                                     |      |
+| QuickTime Player | 视频录制                                                     |      |
+| Xnip「推荐」     | 方便好用的截图工具。功能包括：窗口截图 / 滚动截图 / 取色器功能 / 贴图功能 / 丰富的标注功能。 |      |
+| iShot            | 截图工具                                                     |      |
+| snipaste         | 简单但强大的截图工具。主要功能：截图、贴图、取色。           |      |
 | 截图（Jietu）    | 功能包括：区域截图 / 窗口截图 / 全屏截图 / 倒计时截图 / 录制屏幕，保存可自定义选择图片和视频质量。 |      |
 
 ### 输入法
@@ -85,7 +85,7 @@
 | 名称                      | 功能简述   | 相关 |
 | ------------------------- | ---------- | ---- |
 | Dribbble Screen Saver     | 屏保       |      |
-| Fliqlo「❤」               | 屏保       |      |
+| Fliqlo「推荐」            | 屏保       |      |
 | Padbury                   | 屏保       |      |
 | Soundstream               | 屏保       |      |
 | SwiftBubble               | 屏保       |      |
@@ -111,25 +111,25 @@
 ### 菜单栏管理
 
 
-| 名称       | 功能简述       | 相关 |
-| ---------- | -------------- | ---- |
-| Bartender  | 菜单栏管理工具 |      |
-| Dozer「❤」 | 菜单栏管理工具 |      |
+| 名称          | 功能简述       | 相关 |
+| ------------- | -------------- | ---- |
+| Bartender     | 菜单栏管理工具 |      |
+| Dozer「推荐」 | 菜单栏管理工具 |      |
 
 
 
 ### 密码安全
 
-| 名称           | 功能简述                                                                         | 相关 |
-| -------------- | -------------------------------------------------------------------------------- | ---- |
-| 1Password「❤」 | 密码工具                                                                         |      |
-| BreakTime      | 设置 40 分钟强制锁住系统                                                         |      |
-| Dashlane       | 密码工具                                                                         |      |
-| KeePassX       | 一个免费的，[开源](https://github.com/keepassx/keepassx)的，体积小的密码管理器。 |      |
-| LastPass       | 密码管理器和安全的数字笔记。                                                     |      |
-| MacPass        | [开源](https://github.com/mstarke/MacPass)的密码管理器。                         |      |
-| Near Lock      | 根据你的 iOS 设备和 Mac 的距离来自动解锁和锁上你的 Mac                           |      |
-| Tap            | 指头解锁 Mac                                                                     |      |
+| 名称              | 功能简述                                                     | 相关 |
+| ----------------- | ------------------------------------------------------------ | ---- |
+| 1Password「推荐」 | 密码工具                                                     |      |
+| BreakTime         | 设置 40 分钟强制锁住系统                                     |      |
+| Dashlane          | 密码工具                                                     |      |
+| KeePassX          | 一个免费的，[开源](https://github.com/keepassx/keepassx)的，体积小的密码管理器。 |      |
+| LastPass          | 密码管理器和安全的数字笔记。                                 |      |
+| MacPass           | [开源](https://github.com/mstarke/MacPass)的密码管理器。     |      |
+| Near Lock         | 根据你的 iOS 设备和 Mac 的距离来自动解锁和锁上你的 Mac       |      |
+| Tap               | 指头解锁 Mac                                                 |      |
 
 ### 磁盘工具
 
