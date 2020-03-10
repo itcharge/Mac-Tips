@@ -83,16 +83,16 @@
 
 | 名称                      | 功能简述   | 相关 |
 | ------------------------- | ---------- | ---- |
-| [Aerial](https://github.com/JohnCoates/Aerial) | 屏保        |       |
-| Dribbble Screen Saver     | 屏保       |      |
-| Fliqlo「★」               | 屏保       |      |
-| Padbury                   | 屏保       |      |
-| Soundstream               | 屏保       |      |
-| SwiftBubble               | 屏保       |      |
-| Watch Screensaver for OSX | 屏保       |      |
-| Word clock                | 文字云时钟 |      |
-| iTunes 插图               | 屏保       |      |
-| irvue                     | 壁纸软件   |      |
+| [Aerial](https://github.com/JohnCoates/Aerial) | 最美壁纸，视频均取自 Apple TV 的屏保视频，拥有多组美轮美奂的航拍。 |       |
+| [Dribbble Screen Saver](https://gngrwzrd.com/dribbble-screen-saver/) | 屏保工具，Dribbble Screen Saver 会在锁屏界面展示 Dribbble 近期的热门作品。 |      |
+| [Fliqlo screensaver](https://fliqlo.com/#/screensaver)「★」 | 翻页日历式的时钟式屏保。实用兼美观，称得上是人气最高的屏保之一。 |      |
+| [Padbury](https://padbury.app/) | 更前卫的时钟屏保，把你的 Mac 变成一个简约的时钟。            |      |
+| [Soundstream](http://pcheese.net/software/soundstream/) | 将声音可视化，锁屏动画可以根据周围声音而出现变化，播放音乐的同时开启屏保，屏幕上的光晕会回应节奏。 |      |
+| [SwiftBubble](https://github.com/nemesit/SwiftBubble) | 肥皂泡沫气泡锁屏。 |      |
+| [Watch Screensaver for OSX](http://www.rasmusnielsen.dk/applewatch/) | 时钟屏保，灵动的拟物表盘。 |      |
+| [Word clock](https://www.timeanddate.com/wordclock/) | 纯文字排版的屏幕保护程序。提供文字云时钟。 |      |
+| iTunes 插图               | 系统自带的屏保。iTunes 专辑封面随机显示，效果不逊于第三方。 |      |
+| [irvue](https://apps.apple.com/cn/app/irvue/id1039633667?mt=12) | 自动换壁纸软件，它自动获取 Unsplash 上的高质量无版权图片作为壁纸。 |      |
 
 ### 窗口管理
 
