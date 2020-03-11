@@ -96,25 +96,25 @@
 
 ### 窗口管理
 
-| 名称         | 功能简述                                                                             | 相关 |
-| ------------ | ------------------------------------------------------------------------------------ | ---- |
-| Amethyst     | 窗口管理器（自动保持窗口大小的窗口）。                                               |      |
-| Fenetre      | 窗口置顶工具。                                                                       |      |
-| HyperDock    | 类似 Windows 下窗口预览                                                              |      |
-| Magnet       | 窗口管理，分屏                                                                       |      |
-| Moom         | 多任务多窗口的软件                                                                   |      |
-| ShiftIt      | 窗口位置和大小管理软件                                                               |      |
-| Slate        | 窗口管理器，可用 JavaScript 写配置。[[开源\]](https://github.com/jigish/slate)       |      |
-| Spectacle    | 快速调整应用窗口的工具                                                               |      |
-| Windows Tidy | 窗口控制工具，支持通过选取网格区域和拖拽到区域位置两种方式动态的调整窗口的位置和大小 |      |
+| 名称                                                         | 功能简述                                                     | 相关                                       |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------ |
+| [Amethyst](https://ianyh.com/amethyst/)                      | 窗口管理器（自动保持窗口大小的窗口），平铺式窗口布局。       | [#](https://zhuanlan.zhihu.com/p/30330432) |
+| [Fenetre](https://apps.apple.com/cn/app/fen%C3%AAtre/id1286743037?mt=12) | 窗口置顶工具，保持窗口打开，始终位于其他所有内容之上。。     |                                            |
+| [HyperDock](https://bahoom.com/hyperdock)                    | 类似 Windows 下像任务栏窗口预览。                            |                                            |
+| [Magnet](https://apps.apple.com/cn/app/magnet/id441258766?mt=12) | 窗口速调辅助工具，拖拽窗口到屏幕边缘可以自动半屏， 全屏或者四分之一屏幕。 |                                            |
+| [Moom](https://apps.apple.com/cn/app/moom/id419330170?mt=12) | 窗口布局工具，多任务多窗口，可移动和缩放窗口。               |                                            |
+| [ShiftIt](https://github.com/fikovnik/ShiftIt)               | [开源](https://github.com/fikovnik/ShiftIt) 窗口管理工具。窗口位置和大小调整软件。 |                                            |
+| [Slate](https://github.com/jigish/slate)                     | [开源](https://github.com/jigish/slate) 窗口管理分屏软件，支持用 JavaScript 写配置。 |                                            |
+| [Spectacle](https://www.spectacleapp.com/)                   | 用于快速调整窗口布局的软件。                                 |                                            |
+| [Windows Tidy](https://apps.apple.com/cn/app/window-tidy/id456609775?mt=12) | 窗口控制工具，支持通过选取网格区域和拖拽到区域位置两种方式动态的调整窗口的位置和大小。 |                                            |
 
 ### 菜单栏管理
 
 
-| 名称       | 功能简述       | 相关 |
-| ---------- | -------------- | ---- |
-| Bartender  | 菜单栏管理工具 |      |
-| Dozer「★」 | 菜单栏管理工具 |      |
+| 名称                                                      | 功能简述                                                     | 相关                              |
+| --------------------------------------------------------- | ------------------------------------------------------------ | --------------------------------- |
+| [Bartender](https://www.macbartender.com/)                | 菜单栏管理工具，可以将大量的菜单有选择放进 Bartender 的二级菜单。 |                                   |
+| [Dozer](https://github.com/Mortennn/Dozer/releases/)「★」 | 菜单栏管理工具，一拖一点轻松隐藏图标。                       | [#](https://sspai.com/post/52826) |
 
 
 
