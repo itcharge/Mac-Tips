@@ -120,26 +120,25 @@
 
 ### 密码安全
 
-| 名称           | 功能简述                                                                         | 相关 |
-| -------------- | -------------------------------------------------------------------------------- | ---- |
-| 1Password「★」 | 密码工具                                                                         |      |
-| BreakTime      | 设置 40 分钟强制锁住系统                                                         |      |
-| Dashlane       | 密码工具                                                                         |      |
-| KeePassX       | 一个免费的，[开源](https://github.com/keepassx/keepassx)的，体积小的密码管理器。 |      |
-| LastPass       | 密码管理器和安全的数字笔记。                                                     |      |
-| MacPass        | [开源](https://github.com/mstarke/MacPass)的密码管理器。                         |      |
-| Near Lock      | 根据你的 iOS 设备和 Mac 的距离来自动解锁和锁上你的 Mac                           |      |
-| Tap            | 指头解锁 Mac                                                                     |      |
+| 名称                                                         | 功能简述                                                     | 相关                              |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | --------------------------------- |
+| [1Password](https://1password.com/)「★」                     | 安全、高效的密码管理。                                       | [#](https://sspai.com/post/25168) |
+| [BreakTime](https://apps.apple.com/cn/app/breaktime/id427475982?mt=12) | 设置一定时间之后强制锁住系统，比如设置 40 分钟之后强制锁系统。 |                                   |
+| [KeePassX](https://www.keepassx.org/)                        | 一个免费、[开源](https://github.com/keepassx/keepassx) ，体积小的密码管理器。 |                                   |
+| [LastPass](https://apps.apple.com/cn/app/lastpass-password-manager/id926036361?mt=12) | 跨平台在线密码管理工具。支持自动填表、随机密码生成和密码分享。 |                                   |
+| [MacPass](https://macpassapp.org/)                           | [开源](https://github.com/MacPass/MacPass) 的密码管理器。    |                                   |
+| [Near Lock](https://nearlock.me/)                            | 根据你的 iOS 设备和 Mac 的距离来自动解锁和锁上你的 Mac。     |                                   |
+| [Tap](https://www.kickstarter.com/projects/246211510/tap-unlock-your-mac-with-multi-touch-and-pattern) | 通过触控板进行手势设置锁定和解锁 Mac。                       |                                   |
 
 ### 磁盘工具
 
-| 名称              | 功能简述                     | 相关 |
-| ----------------- | ---------------------------- | ---- |
-| DropDMG           |                              |      |
-| Mounty            |                              |      |
-| NTFS for Mac 助手 |                              |      |
-| Paragon NTFS      |                              |      |
-| Tuxera NTFS       | Mac 上的 NTFS 文件系统驱动。 |      |
+| 名称                                                         | 功能简述                                   | 相关 |
+| ------------------------------------------------------------ | ------------------------------------------ | ---- |
+| [DropDMG](https://c-command.com/dropdmg/)                    | 快速打包 DMG 格式文件的 Mac 文件管理软件。 |      |
+| [Mounty](https://mounty.app/)                                | NTFS 格式读写工具（不太稳定）              |      |
+| [NTFS for Mac 助手](https://www.ntfsformac.com/)             | NTFS 格式读写工具                          |      |
+| [Paragon NTFS](https://china.paragon-software.com/home-mac/ntfs-for-mac/) | NTFS 格式读写工具                          |      |
+| [Tuxera NTFS](https://www.tuxera.com/products/tuxera-ntfs-for-mac-cn/) | Mac 上的 NTFS 文件系统驱动。               |      |
 
 ### 下载工具
 
