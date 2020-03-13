@@ -37,13 +37,13 @@
 ### 快捷工具
 
 
-| 名称                                                         | 功能简述                                                     | 相关                              |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | --------------------------------- |
-| [CheatSheet](https://www.mediaatelier.com/CheatSheet/)       | 快速查看快捷键列表                                           |                                   |
-| [Keyboard Maestro](https://www.keyboardmaestro.com/main/)    | 键盘增强工具，通过一系列条件来触发一个个 Macro 藉此实现操作自动化的软件。 | [#](https://sspai.com/post/56142) |
-| [Manic](https://apps.apple.com/cn/app/manico/id724472954?mt=12) | 一个强大的 App 启动器和切换器                                |                                   |
-| [Snap](https://apps.apple.com/cn/app/snap/id418073146?mt=12) | 给 Dock 上的程序添加快捷键。快速启动、切换应用。             |                                   |
-| [one switch](https://fireball.studio/oneswitch/)             | 万能开关。可一键快速实现保持亮屏、切换 AirPods、切换黑暗模式等功能。 | [#](https://sspai.com/post/56663) |
+| 名称                                                            | 功能简述                                                                  | 相关                              |
+| --------------------------------------------------------------- | ------------------------------------------------------------------------- | --------------------------------- |
+| [CheatSheet](https://www.mediaatelier.com/CheatSheet/)          | 快速查看快捷键列表                                                        |                                   |
+| [Keyboard Maestro](https://www.keyboardmaestro.com/main/)       | 键盘增强工具，通过一系列条件来触发一个个 Macro 藉此实现操作自动化的软件。 | [#](https://sspai.com/post/56142) |
+| [Manic](https://apps.apple.com/cn/app/manico/id724472954?mt=12) | 一个强大的 App 启动器和切换器                                             |                                   |
+| [Snap](https://apps.apple.com/cn/app/snap/id418073146?mt=12)    | 给 Dock 上的程序添加快捷键。快速启动、切换应用。                          |                                   |
+| [one switch](https://fireball.studio/oneswitch/)                | 万能开关。可一键快速实现保持亮屏、切换 AirPods、切换黑暗模式等功能。      | [#](https://sspai.com/post/56663) |
 
 ### 压缩 / 解压
 
@@ -55,107 +55,111 @@
 ### 截屏 / 录屏
 
 
-| 名称                                                         | 功能简述                                                     | 相关                              |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | :-------------------------------- |
-| [Kap](https://getkap.co/)                                    | 免费、开源的录屏工具，兼具丰富的功能和简约的界面。可进行 GIF 录屏。 | [#](https://sspai.com/post/43212) |
-| [LICEcap](https://www.cockos.com/licecap/)                   | 屏幕录制工具，支持导出GIF 动画图片格式，轻量级、使用简单，录制过程中可以随意改变录屏范围。可进行 GIF 录屏。 |                                   |
-| [Napkin](http://aged-and-distilled.com/)                     | 图像注释和标记软件，多图排版，多种标记，一键马赛克。         |                                   |
-| [PicGIF](https://apps.apple.com/cn/app/picgif/id784260229?mt=12) | GIF 动画快速制作软件                                         |                                   |
-| [QuickTime Player](https://support.apple.com/downloads/quicktime) | 苹果官方出品，可以录制电脑屏幕的视频。                       |                                   |
-| [Xnip](https://apps.apple.com/cn/app/xnip-%E6%88%AA%E5%9B%BE-%E6%A0%87%E6%B3%A8/id1221250572?mt=12)「★」 | 方便好用的截图工具。功能包括：窗口截图 / 滚动截图 / 取色器功能 / 贴图功能 / 丰富的标注功能。 | [#](https://sspai.com/post/42654) |
-| [iShot](https://apps.apple.com/cn/app/ishot-%E6%88%AA%E5%9B%BE-%E9%95%BF%E6%88%AA%E5%9B%BE-%E8%B4%B4%E5%9B%BE-%E5%BD%95%E5%B1%8F%E5%B7%A5%E5%85%B7/id1485844094?mt=12) | 截图工具。功能包括：录屏 / 区域截图 / 窗口截图 / 长截图 / 延时截图 / 快速标注 / 贴图工具。 | [#](https://sspai.com/post/57302) |
-| [snipaste](https://zh.snipaste.com/)                         | 简单但强大的截图工具。主要功能：截图、贴图、取色。           |                                   |
+| 名称                                                                                                                                                                                                              | 功能简述                                                                                                     | 相关                              |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | :-------------------------------- |
+| [Kap](https://getkap.co/)                                                                                                                                                                                         | 免费、开源的录屏工具，兼具丰富的功能和简约的界面。可进行 GIF 录屏。                                          | [#](https://sspai.com/post/43212) |
+| [LICEcap](https://www.cockos.com/licecap/)                                                                                                                                                                        | 屏幕录制工具，支持导出 GIF 动画图片格式，轻量级、使用简单，录制过程中可以随意改变录屏范围。可进行 GIF 录屏。 |                                   |
+| [Napkin](http://aged-and-distilled.com/)                                                                                                                                                                          | 图像注释和标记软件，多图排版，多种标记，一键马赛克。                                                         |                                   |
+| [PicGIF](https://apps.apple.com/cn/app/picgif/id784260229?mt=12)                                                                                                                                                  | GIF 动画快速制作软件                                                                                         |                                   |
+| [QuickTime Player](https://support.apple.com/downloads/quicktime)                                                                                                                                                 | 苹果官方出品，可以录制电脑屏幕的视频。                                                                       |                                   |
+| [Xnip](https://apps.apple.com/cn/app/xnip-%E6%88%AA%E5%9B%BE-%E6%A0%87%E6%B3%A8/id1221250572?mt=12)「★」                                                                                                          | 方便好用的截图工具。功能包括：窗口截图 / 滚动截图 / 取色器功能 / 贴图功能 / 丰富的标注功能。                 | [#](https://sspai.com/post/42654) |
+| [iShot](https://apps.apple.com/cn/app/ishot-%E6%88%AA%E5%9B%BE-%E9%95%BF%E6%88%AA%E5%9B%BE-%E8%B4%B4%E5%9B%BE-%E5%BD%95%E5%B1%8F%E5%B7%A5%E5%85%B7/id1485844094?mt=12)                                            | 截图工具。功能包括：录屏 / 区域截图 / 窗口截图 / 长截图 / 延时截图 / 快速标注 / 贴图工具。                   | [#](https://sspai.com/post/57302) |
+| [mathpix snip](https://mathpix.com/)                                                                                                                                                                              | 公式输入神器，只要截图就能识别公式。                                                                         |                                   |
+| [snipaste](https://zh.snipaste.com/)                                                                                                                                                                              | 简单但强大的截图工具。主要功能：截图、贴图、取色。                                                           |                                   |
 | [截图（Jietu）](https://apps.apple.com/cn/app/%E6%88%AA%E5%9B%BE-jietu-%E5%BF%AB%E9%80%9F%E6%A0%87%E6%B3%A8-%E4%BE%BF%E6%8D%B7%E5%88%86%E4%BA%AB%E7%9A%84%E6%88%AA%E5%B1%8F%E5%B7%A5%E5%85%B7/id1059334054?mt=12) | 腾讯出品。功能包括：区域截图 / 窗口截图 / 全屏截图 / 倒计时截图 / 录制屏幕，保存可自定义选择图片和视频质量。 |                                   |
-| [mathpix snip](https://mathpix.com/)                         | 公式输入神器，只要截图就能识别公式。                         |                                   |
 
 ### 输入法
 
-| 名称                                                         | 功能简述                                                     | 相关                                         |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | -------------------------------------------- |
-| [GhostSKB](https://apps.apple.com/cn/app/ghostskb/id1134384859) | 一个自动切换输入法的工具                                     | [#](https://github.com/dingmingxin/GhostSKB) |
-| [RIME（鼠须管）](http://rime.im/)                            | 神级 [开源](https://github.com/rime) 输入法，支持拼音、注音、仓颉、五笔等输入方案，它底层是 RIME/中州韵输入法引擎。 | [#](https://zhuanlan.zhihu.com/p/82476313)   |
-| [搜狗输入法](https://pinyin.sogou.com/mac/)                  | 支持全拼、双拼，兼容 PC 数万款皮肤，支持 Retina，具备单行模式、词库同步、云输入、中英混输、模糊音、繁体输入等特性，致力于提供最佳 Mac 输入体验。 |                                              |
-| [清歌输入法](https://qingg.im/mac/)                          | 为 iOS 和 Mac 专门打造的五笔输入法。                         |                                              |
-| [百度输入法](https://srf.baidu.com/input/mac.html)           | 支持拼音/五笔输入，采用百度三代内核+三维词库，拥有极速输入响应，超高出词精准度，优雅外观设计和卓越用户体验。为输入提速，让Mac更出色！ |                                              |
-| [自动切换输入法](https://apps.apple.com/cn/app/自动切换输入法/id1470350547?mt=12) | 自动切换输入法、设置切换输入法快捷键                         |                                              |
+| 名称                                                                              | 功能简述                                                                                                                                         | 相关                                         |
+| --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------- |
+| [GhostSKB](https://apps.apple.com/cn/app/ghostskb/id1134384859)                   | 一个自动切换输入法的工具                                                                                                                         | [#](https://github.com/dingmingxin/GhostSKB) |
+| [RIME（鼠须管）](http://rime.im/)                                                 | 神级 [开源](https://github.com/rime) 输入法，支持拼音、注音、仓颉、五笔等输入方案，它底层是 RIME/中州韵输入法引擎。                              | [#](https://zhuanlan.zhihu.com/p/82476313)   |
+| [搜狗输入法](https://pinyin.sogou.com/mac/)                                       | 支持全拼、双拼，兼容 PC 数万款皮肤，支持 Retina，具备单行模式、词库同步、云输入、中英混输、模糊音、繁体输入等特性，致力于提供最佳 Mac 输入体验。 |                                              |
+| [清歌输入法](https://qingg.im/mac/)                                               | 为 iOS 和 Mac 专门打造的五笔输入法。                                                                                                             |                                              |
+| [百度输入法](https://srf.baidu.com/input/mac.html)                                | 支持拼音/五笔输入，采用百度三代内核+三维词库，拥有极速输入响应，超高出词精准度，优雅外观设计和卓越用户体验。为输入提速，让 Mac 更出色！          |                                              |
+| [自动切换输入法](https://apps.apple.com/cn/app/自动切换输入法/id1470350547?mt=12) | 自动切换输入法、设置切换输入法快捷键                                                                                                             |                                              |
 
 ### 屏保工具
 
-| 名称                      | 功能简述   | 相关 |
-| ------------------------- | ---------- | ---- |
-| [Aerial](https://github.com/JohnCoates/Aerial) | 最美壁纸，视频均取自 Apple TV 的屏保视频，拥有多组美轮美奂的航拍。 |       |
-| [Dribbble Screen Saver](https://gngrwzrd.com/dribbble-screen-saver/) | 屏保工具，Dribbble Screen Saver 会在锁屏界面展示 Dribbble 近期的热门作品。 |      |
-| [Fliqlo screensaver](https://fliqlo.com/#/screensaver)「★」 | 翻页日历式的时钟式屏保。实用兼美观，称得上是人气最高的屏保之一。 |      |
-| [Padbury](https://padbury.app/) | 更前卫的时钟屏保，把你的 Mac 变成一个简约的时钟。            |      |
-| [Soundstream](http://pcheese.net/software/soundstream/) | 将声音可视化，锁屏动画可以根据周围声音而出现变化，播放音乐的同时开启屏保，屏幕上的光晕会回应节奏。 |      |
-| [SwiftBubble](https://github.com/nemesit/SwiftBubble) | 肥皂泡沫气泡锁屏。 |      |
-| [Watch Screensaver for OSX](http://www.rasmusnielsen.dk/applewatch/) | 时钟屏保，灵动的拟物表盘。 |      |
-| [Word clock](https://www.timeanddate.com/wordclock/) | 纯文字排版的屏幕保护程序。提供文字云时钟。 |      |
-| iTunes 插图               | 系统自带的屏保。iTunes 专辑封面随机显示，效果不逊于第三方。 |      |
-| [irvue](https://apps.apple.com/cn/app/irvue/id1039633667?mt=12) | 自动换壁纸软件，它自动获取 Unsplash 上的高质量无版权图片作为壁纸。 |      |
+| 名称                                                                 | 功能简述                                                                                           | 相关 |
+| -------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ---- |
+| [Aerial](https://github.com/JohnCoates/Aerial)                       | 最美壁纸，视频均取自 Apple TV 的屏保视频，拥有多组美轮美奂的航拍。                                 |      |
+| [Dribbble Screen Saver](https://gngrwzrd.com/dribbble-screen-saver/) | 屏保工具，Dribbble Screen Saver 会在锁屏界面展示 Dribbble 近期的热门作品。                         |      |
+| [Fliqlo screensaver](https://fliqlo.com/#/screensaver)「★」          | 翻页日历式的时钟式屏保。实用兼美观，称得上是人气最高的屏保之一。                                   |      |
+| [Padbury](https://padbury.app/)                                      | 更前卫的时钟屏保，把你的 Mac 变成一个简约的时钟。                                                  |      |
+| [Soundstream](http://pcheese.net/software/soundstream/)              | 将声音可视化，锁屏动画可以根据周围声音而出现变化，播放音乐的同时开启屏保，屏幕上的光晕会回应节奏。 |      |
+| [SwiftBubble](https://github.com/nemesit/SwiftBubble)                | 肥皂泡沫气泡锁屏。                                                                                 |      |
+| [Watch Screensaver for OSX](http://www.rasmusnielsen.dk/applewatch/) | 时钟屏保，灵动的拟物表盘。                                                                         |      |
+| [Word clock](https://www.timeanddate.com/wordclock/)                 | 纯文字排版的屏幕保护程序。提供文字云时钟。                                                         |      |
+| [irvue](https://apps.apple.com/cn/app/irvue/id1039633667?mt=12)      | 自动换壁纸软件，它自动获取 Unsplash 上的高质量无版权图片作为壁纸。                                 |      |
+| iTunes 插图                                                          | 系统自带的屏保。iTunes 专辑封面随机显示，效果不逊于第三方。                                        |      |
 
 ### 窗口管理
 
-| 名称                                                         | 功能简述                                                     | 相关                                       |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------ |
-| [Amethyst](https://ianyh.com/amethyst/)                      | 窗口管理器（自动保持窗口大小的窗口），平铺式窗口布局。       | [#](https://zhuanlan.zhihu.com/p/30330432) |
-| [Fenetre](https://apps.apple.com/cn/app/fen%C3%AAtre/id1286743037?mt=12) | 窗口置顶工具，保持窗口打开，始终位于其他所有内容之上。。     |                                            |
-| [HyperDock](https://bahoom.com/hyperdock)                    | 类似 Windows 下像任务栏窗口预览。                            |                                            |
-| [Magnet](https://apps.apple.com/cn/app/magnet/id441258766?mt=12) | 窗口速调辅助工具，拖拽窗口到屏幕边缘可以自动半屏， 全屏或者四分之一屏幕。 |                                            |
-| [Moom](https://apps.apple.com/cn/app/moom/id419330170?mt=12) | 窗口布局工具，多任务多窗口，可移动和缩放窗口。               |                                            |
-| [ShiftIt](https://github.com/fikovnik/ShiftIt)               | [开源](https://github.com/fikovnik/ShiftIt) 窗口管理工具。窗口位置和大小调整软件。 |                                            |
-| [Slate](https://github.com/jigish/slate)                     | [开源](https://github.com/jigish/slate) 窗口管理分屏软件，支持用 JavaScript 写配置。 |                                            |
-| [Spectacle](https://www.spectacleapp.com/)                   | 用于快速调整窗口布局的软件。                                 |                                            |
+| 名称                                                                        | 功能简述                                                                               | 相关                                       |
+| --------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | ------------------------------------------ |
+| [Amethyst](https://ianyh.com/amethyst/)                                     | 窗口管理器（自动保持窗口大小的窗口），平铺式窗口布局。                                 | [#](https://zhuanlan.zhihu.com/p/30330432) |
+| [Fenetre](https://apps.apple.com/cn/app/fen%C3%AAtre/id1286743037?mt=12)    | 窗口置顶工具，保持窗口打开，始终位于其他所有内容之上。。                               |                                            |
+| [HyperDock](https://bahoom.com/hyperdock)                                   | 类似 Windows 下像任务栏窗口预览。                                                      |                                            |
+| [Magnet](https://apps.apple.com/cn/app/magnet/id441258766?mt=12)            | 窗口速调辅助工具，拖拽窗口到屏幕边缘可以自动半屏， 全屏或者四分之一屏幕。              |                                            |
+| [Moom](https://apps.apple.com/cn/app/moom/id419330170?mt=12)                | 窗口布局工具，多任务多窗口，可移动和缩放窗口。                                         |                                            |
+| [ShiftIt](https://github.com/fikovnik/ShiftIt)                              | [开源](https://github.com/fikovnik/ShiftIt) 窗口管理工具。窗口位置和大小调整软件。     |                                            |
+| [Slate](https://github.com/jigish/slate)                                    | [开源](https://github.com/jigish/slate) 窗口管理分屏软件，支持用 JavaScript 写配置。   |                                            |
+| [Spectacle](https://www.spectacleapp.com/)                                  | 用于快速调整窗口布局的软件。                                                           |                                            |
 | [Windows Tidy](https://apps.apple.com/cn/app/window-tidy/id456609775?mt=12) | 窗口控制工具，支持通过选取网格区域和拖拽到区域位置两种方式动态的调整窗口的位置和大小。 |                                            |
 
 ### 菜单栏管理
 
 
-| 名称                                                      | 功能简述                                                     | 相关                              |
-| --------------------------------------------------------- | ------------------------------------------------------------ | --------------------------------- |
+| 名称                                                      | 功能简述                                                          | 相关                              |
+| --------------------------------------------------------- | ----------------------------------------------------------------- | --------------------------------- |
 | [Bartender](https://www.macbartender.com/)                | 菜单栏管理工具，可以将大量的菜单有选择放进 Bartender 的二级菜单。 |                                   |
-| [Dozer](https://github.com/Mortennn/Dozer/releases/)「★」 | 菜单栏管理工具，一拖一点轻松隐藏图标。                       | [#](https://sspai.com/post/52826) |
+| [Dozer](https://github.com/Mortennn/Dozer/releases/)「★」 | 菜单栏管理工具，一拖一点轻松隐藏图标。                            | [#](https://sspai.com/post/52826) |
 
 
 
 ### 密码安全
 
-| 名称                                                         | 功能简述                                                     | 相关                              |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | --------------------------------- |
-| [1Password](https://1password.com/)「★」                     | 安全、高效的密码管理。                                       | [#](https://sspai.com/post/25168) |
-| [BreakTime](https://apps.apple.com/cn/app/breaktime/id427475982?mt=12) | 设置一定时间之后强制锁住系统，比如设置 40 分钟之后强制锁系统。 |                                   |
-| [KeePassX](https://www.keepassx.org/)                        | 一个免费、[开源](https://github.com/keepassx/keepassx) ，体积小的密码管理器。 |                                   |
-| [LastPass](https://apps.apple.com/cn/app/lastpass-password-manager/id926036361?mt=12) | 跨平台在线密码管理工具。支持自动填表、随机密码生成和密码分享。 |                                   |
-| [MacPass](https://macpassapp.org/)                           | [开源](https://github.com/MacPass/MacPass) 的密码管理器。    |                                   |
-| [Near Lock](https://nearlock.me/)                            | 根据你的 iOS 设备和 Mac 的距离来自动解锁和锁上你的 Mac。     |                                   |
-| [Tap](https://www.kickstarter.com/projects/246211510/tap-unlock-your-mac-with-multi-touch-and-pattern) | 通过触控板进行手势设置锁定和解锁 Mac。                       |                                   |
+| 名称                                                                                                   | 功能简述                                                                      | 相关                              |
+| ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------- | --------------------------------- |
+| [1Password](https://1password.com/)「★」                                                               | 安全、高效的密码管理。                                                        | [#](https://sspai.com/post/25168) |
+| [BreakTime](https://apps.apple.com/cn/app/breaktime/id427475982?mt=12)                                 | 设置一定时间之后强制锁住系统，比如设置 40 分钟之后强制锁系统。                |                                   |
+| [KeePassX](https://www.keepassx.org/)                                                                  | 一个免费、[开源](https://github.com/keepassx/keepassx) ，体积小的密码管理器。 |                                   |
+| [LastPass](https://apps.apple.com/cn/app/lastpass-password-manager/id926036361?mt=12)                  | 跨平台在线密码管理工具。支持自动填表、随机密码生成和密码分享。                |                                   |
+| [MacPass](https://macpassapp.org/)                                                                     | [开源](https://github.com/MacPass/MacPass) 的密码管理器。                     |                                   |
+| [Near Lock](https://nearlock.me/)                                                                      | 根据你的 iOS 设备和 Mac 的距离来自动解锁和锁上你的 Mac。                      |                                   |
+| [Tap](https://www.kickstarter.com/projects/246211510/tap-unlock-your-mac-with-multi-touch-and-pattern) | 通过触控板进行手势设置锁定和解锁 Mac。                                        |                                   |
 
 ### 磁盘工具
 
-| 名称                                                         | 功能简述                                   | 相关 |
-| ------------------------------------------------------------ | ------------------------------------------ | ---- |
-| [DropDMG](https://c-command.com/dropdmg/)                    | 快速打包 DMG 格式文件的 Mac 文件管理软件。 |      |
-| [Mounty](https://mounty.app/)                                | NTFS 格式读写工具（不太稳定）              |      |
-| [NTFS for Mac 助手](https://www.ntfsformac.com/)             | NTFS 格式读写工具                          |      |
+| 名称                                                                      | 功能简述                                   | 相关 |
+| ------------------------------------------------------------------------- | ------------------------------------------ | ---- |
+| [DropDMG](https://c-command.com/dropdmg/)                                 | 快速打包 DMG 格式文件的 Mac 文件管理软件。 |      |
+| [Mounty](https://mounty.app/)                                             | NTFS 格式读写工具（不太稳定）              |      |
+| [NTFS for Mac 助手](https://www.ntfsformac.com/)                          | NTFS 格式读写工具                          |      |
 | [Paragon NTFS](https://china.paragon-software.com/home-mac/ntfs-for-mac/) | NTFS 格式读写工具                          |      |
-| [Tuxera NTFS](https://www.tuxera.com/products/tuxera-ntfs-for-mac-cn/) | Mac 上的 NTFS 文件系统驱动。               |      |
+| [Tuxera NTFS](https://www.tuxera.com/products/tuxera-ntfs-for-mac-cn/)    | Mac 上的 NTFS 文件系统驱动。               |      |
 
 ### 下载工具
 
-| 名称                  | 功能简述          | 相关 |
-| --------------------- | ----------------- | ---- |
-| Airy                  | 下载 Youtube 视频 |      |
-| Aria2GUI              |                   |      |
-| Downie3               |                   |      |
-| ENFI 下载器           |                   |      |
-| FOLX                  |                   |      |
-| Free Download Manager |                   |      |
-| JDownloader           |                   |      |
-| NeetDownloadManger    |                   |      |
-| Thunder               |                   |      |
-| Transmission          |                   |      |
-| You-Get               |                   |      |
-| 百度网盘              |                   |      |
+| 名称                                                                     | 功能简述                                                                                                           | 相关 |
+| ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------ | ---- |
+| [115 网盘](http://pc.115.com/)                                           | 115 网盘客户端。                                                                                                   |      |
+| [Airy](https://www.airy-youtube-downloader.com/)                         | 下载 Youtube 视频                                                                                                  |      |
+| [Aria2GUI](https://github.com/yangshun1029/aria2gui)                     | 离线下载工具，集成 aria2c，多线程下载。                                                                            |      |
+| [Downie](https://software.charliemonroe.net/downie/)                     | 视频下载工具，支持超过 1000 个流媒体网站的视频下载。                                                               |      |
+| [ENFI 下载器](https://enfi.cloud/)                                       | 通用型高速下载工具，使用 P2P 下载技术，支持 HTTP，BT，磁力链等各种协议，高速下载让你摆脱限速的困扰，从此告别低速。 |      |
+| [FOLX](https://mac.eltima.com/download-manager.html)                     | 免费下载管理工具，支持断点续传、多线程分割下载。                                                                   |      |
+| [Free Download Manager](https://www.freedownloadmanager.org/zh/)         | 多点续传下载及管理的开源软件，支持 HTTP、FTP、BT 等多种模式下载。                                                  |      |
+| [JDownloader](https://jdownloader.org/download/index)                    | 免费的开源下载管理工具，支持百度云等网盘的高速下载                                                                 |      |
+| [NeatDownloadManager](https://www.neatdownloadmanager.com/index.php/en/) | 多线程下载工具。支持 HTTP，HTTPS 和 FTP 协议，HTTP 和代理身份验证。使用浏览器插件可下载视频、音频。                |      |
+| [Thunder](https://www.xunlei.com/)                                       | P2SP 下载加速技术，目前限速严重。                                                                                  |      |
+| [Transmission](https://transmissionbt.com/)                              | 超轻量级 Bittorrent 客户端。                                                                                       |      |
+| [You-Get](https://github.com/soimort/you-get)                            | [开源](https://github.com/soimort/you-get) 命令行程序，提供便利的方式来下载网络上的媒体信息。                      |      |
+| [城通网盘](https://www.ctfile.com/)                                      | 城通网盘客户端。                                                                                                   |      |
+| [百度网盘](https://pan.baidu.com/download#pan)                           | 百度云客户端。                                                                                                     |      |
+| [网盘直链下载助手](https://www.baiduyun.wiki/install.html)「★」          | 多平台支持，网盘下载链接一键获取，支持多种协议链接格式。                                                           |      |
+| [腾讯微云](https://www.weiyun.com/download.html)                         | 腾讯微云客户端。                                                                                                   |      |
 
 ### 网络工具
 
