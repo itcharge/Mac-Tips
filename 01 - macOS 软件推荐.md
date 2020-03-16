@@ -163,22 +163,22 @@
 
 ### 网络工具
 
-| 名称          | 功能简述             | 相关 |
-| ------------- | -------------------- | ---- |
-| Little Snitch |                      |      |
-| Surge         | 网络调试工具         |      |
-| TripMode      | 拦截不需要联网的软件 |      |
-| Vallum        |                      |      |
-| iHosts        | 管理 host            |      |
-| switchHost    | 管理 host            |      |
-| 自我控制      |                      |      |
+| 名称                                                         | 功能简述                                                     | 相关 |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
+| [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html) | 拦截不需要联网的软件。                                       |      |
+| [Surge](https://nssurge.com/)                                | 网络调试工具                                                 |      |
+| [TripMode](https://www.tripmode.ch/)                         | Mac 联网控制软件，拦截不需要联网的软件。                     |      |
+| [Vallum](https://www.vallumfirewall.com/)                    | 小巧而实用的防火墙工具，可以监视和拦截软件联网。             |      |
+| [iHosts](https://apps.apple.com/cn/app/ihosts-etc-hosts-%E7%BC%96%E8%BE%91%E5%99%A8/id1102004240?mt=12) | host 编辑神器，使用分组管理 host                             |      |
+| [switchHost](https://github.com/oldj/SwitchHosts/releases)   | 管理 host [开源](https://github.com/oldj/SwitchHosts/releases) 软件，快捷切换 host |      |
+| [SelfControl](https://selfcontrolapp.com/)                   | 强制自我控制软件，利用黑名单来控制你所浏览的网页，在设定时间内，被加入黑名单的网站你就会没法访问。 |      |
 
 ### 虚拟机
 
-| 名称              | 功能简述 | 相关 |
-| ----------------- | -------- | ---- |
-| Parallels Desktop |          |      |
-| VMware            |          |      |
+| 名称                                                         | 功能简述                            | 相关 |
+| ------------------------------------------------------------ | ----------------------------------- | ---- |
+| [Parallels Desktop](https://www.parallels.cn/)               | 虚拟机工具，在 Mac 上运行 Windows。 |      |
+| [VMware Fusion](https://www.vmware.com/cn/products/fusion.html) | 虚拟机工具，在 Mac 上运行 Windows。 |      |
 
 ### 日历工具
 
