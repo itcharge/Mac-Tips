@@ -163,51 +163,51 @@
 
 ### 网络工具
 
-| 名称                                                         | 功能简述                                                     | 相关 |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
-| [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html) | 拦截不需要联网的软件。                                       |      |
-| [Surge](https://nssurge.com/)                                | 网络调试工具                                                 |      |
-| [TripMode](https://www.tripmode.ch/)                         | Mac 联网控制软件，拦截不需要联网的软件。                     |      |
-| [Vallum](https://www.vallumfirewall.com/)                    | 小巧而实用的防火墙工具，可以监视和拦截软件联网。             |      |
-| [iHosts](https://apps.apple.com/cn/app/ihosts-etc-hosts-%E7%BC%96%E8%BE%91%E5%99%A8/id1102004240?mt=12) | host 编辑神器，使用分组管理 host                             |      |
-| [switchHost](https://github.com/oldj/SwitchHosts/releases)   | 管理 host [开源](https://github.com/oldj/SwitchHosts/releases) 软件，快捷切换 host |      |
-| [SelfControl](https://selfcontrolapp.com/)                   | 强制自我控制软件，利用黑名单来控制你所浏览的网页，在设定时间内，被加入黑名单的网站你就会没法访问。 |      |
+| 名称                                                                                                    | 功能简述                                                                                           | 相关 |
+| ------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ---- |
+| [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html)                                  | 拦截不需要联网的软件。                                                                             |      |
+| [SelfControl](https://selfcontrolapp.com/)                                                              | 强制自我控制软件，利用黑名单来控制你所浏览的网页，在设定时间内，被加入黑名单的网站你就会没法访问。 |      |
+| [Surge](https://nssurge.com/)                                                                           | 网络调试工具                                                                                       |      |
+| [TripMode](https://www.tripmode.ch/)                                                                    | Mac 联网控制软件，拦截不需要联网的软件。                                                           |      |
+| [Vallum](https://www.vallumfirewall.com/)                                                               | 小巧而实用的防火墙工具，可以监视和拦截软件联网。                                                   |      |
+| [iHosts](https://apps.apple.com/cn/app/ihosts-etc-hosts-%E7%BC%96%E8%BE%91%E5%99%A8/id1102004240?mt=12) | host 编辑神器，使用分组管理 host                                                                   |      |
+| [switchHost](https://github.com/oldj/SwitchHosts/releases)                                              | 管理 host [开源](https://github.com/oldj/SwitchHosts/releases) 软件，快捷切换 host                 |      |
 
 ### 虚拟机
 
-| 名称                                                         | 功能简述                            | 相关 |
-| ------------------------------------------------------------ | ----------------------------------- | ---- |
-| [Parallels Desktop](https://www.parallels.cn/)               | 虚拟机工具，在 Mac 上运行 Windows。 |      |
+| 名称                                                            | 功能简述                            | 相关 |
+| --------------------------------------------------------------- | ----------------------------------- | ---- |
+| [Parallels Desktop](https://www.parallels.cn/)                  | 虚拟机工具，在 Mac 上运行 Windows。 |      |
 | [VMware Fusion](https://www.vmware.com/cn/products/fusion.html) | 虚拟机工具，在 Mac 上运行 Windows。 |      |
 
 ### 日历工具
 
-| 名称           | 功能简述                       | 相关 |
-| -------------- | ------------------------------ | ---- |
-| Day-O 2        |                                |      |
-| Fantastical    | 日历应用程序，你将管理好生活。 |      |
-| Itsycal        | 日历插件                       |      |
-| PixelScheduler | 日历显示在屏幕边缘工具         |      |
+| 名称                                                                             | 功能简述                                                                                                    | 相关 |
+| -------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ---- |
+| [Day-O 2](https://shauninman.com/archive/2016/10/20/day_o_2_mac_menu_bar_clock)  | 菜单栏弹出日历，替代系统菜单栏的时间显示。                                                                  |      |
+| [Fantastical](https://flexibits.com/fantastical)                                 | 带有时间管理特性的日历，简洁优雅。                                                                          |      |
+| [Itsycal](https://www.mowglii.com/itsycal/)                                      | [开源](https://github.com/sfsam/itsycal) 日历插件，菜单栏上自定义显示日历与时间，替代系统菜单栏的时间显示。 |      |
+| [PixelScheduler](https://apps.apple.com/cn/app/pixelscheduler/id976996075?mt=12) | 桌面轻量日历工具，将日历显示在屏幕边缘工具。                                                                |      |
 
 ### 翻译工具
 
-| 名称            | 功能简述                             | 相关 |
-| --------------- | ------------------------------------ | ---- |
-| Alfred+扇贝插件 |                                      |      |
-| eudic           | 欧路词典。                           |      |
-| iTranslate      | 支持全世界超过 80 种语言发音和输出。 |      |
-| 网易有道词典    | 有道词典桌面版。                     |      |
-| 辞海词典        | 学单词、背单词、辞海词典。           |      |
+| 名称                                                                                                            | 功能简述                                                                                         | 相关 |
+| --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ---- |
+| [Alfred](https://www.alfredapp.com/) + [扇贝插件](https://github.com/alswl/shanbay-alfred2)「★」                | 方便快捷的单词查询、添加单词到词库、发音。                                                       |      |
+| [Alfred](https://www.alfredapp.com/) + [有道翻译插件](https://github.com/whyliam/whyliam.workflows.youdao)「★」 | 方便快捷的单词查询，支持英译中、中译英、翻译短语、发音、双击快速翻译。                           |      |
+| [iTranslate](https://www.itranslate.com/)                                                                       | Mac 平台的翻译工具，支持全世界超过 80 种语言发音和输出。                                         |      |
+| [欧路词典(eudic)](https://www.eudic.net/v4/en/app/eudic)                                                        | 欧路词典客户端，内置常用英汉词条 30 多万个，支持学习笔记、生词本多平台同步，让你随时随地学英语。 |      |
+| [网易有道词典](https://cidian.youdao.com/index-mac.html)                                                        | 有道词典 Mac 版。多语言翻译、海量词汇、中英百科、单词本、取词划词。                              |      |
 
 ## 应用软件
 
 ### 效率工具
 
-| 名称             | 功能简述   | 相关 |
-| ---------------- | ---------- | ---- |
-| Alfred           | 效率神器。 |      |
-| Automator        | 办公自动化 |      |
-| Keyboard Maestro | 自动化神器 |      |
+| 名称                                      | 功能简述                                                                       | 相关                              |
+| ----------------------------------------- | ------------------------------------------------------------------------------ | --------------------------------- |
+| Automator                                 | 办公自动化                                                                     |                                   |
+| Keyboard Maestro                          | 自动化神器                                                                     |                                   |
+| [Alfred](https://www.alfredapp.com/)「★」 | 效率神器。应用与文件搜索、剪贴板管理、快捷短语输入，丰富全面的 Workflow 功能。 | [#](https://sspai.com/post/55098) |
 
 ### 时间管理
 
