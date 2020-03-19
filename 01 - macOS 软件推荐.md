@@ -211,16 +211,16 @@
 
 ### 时间管理
 
-| 名称                                  | 功能简述                                   | 相关 |
-| ------------------------------------- | ------------------------------------------ | ---- |
-| OmniFocus                             | GTD 日程管理工具                           |      |
-| RescueTime                            | 记录 Mac 软件和时长                        |      |
-| TaskPaper                             | 纯文本 GTD 日程管理工具                    |      |
-| [Wunderlist](https://todoist.com/mac) | 奇妙清单跨平台的任务管理器与移动应用程序。 |      |
-| 小番茄                                |                                            |      |
-| 番茄土豆                              |                                            |      |
-| 滴答清单                              |                                            |      |
-| things                                |                                            |      |
+| 名称                                                         | 功能简述                                                     | 相关                              |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | --------------------------------- |
+| [OmniFocus](https://www.omnigroup.com/omnifocus/)            | GTD 任务管理工具，功能强大，上手成本较高。                   | [#](https://sspai.com/post/27582) |
+| [RescueTime](https://www.rescuetime.com/)                    | 记录 Mac 软件和时长                                          |                                   |
+| [TaskPaper](https://www.taskpaper.com/)                      | 纯文本 GTD 日程管理工具                                      |                                   |
+| [Wunderlist](https://todoist.com/mac)                        | 奇妙清单跨平台的任务管理器与移动应用程序。                   |                                   |
+| [小番茄](https://apps.apple.com/cn/app/%E5%B0%8F%E7%95%AA%E8%8C%84-%E7%95%AA%E8%8C%84%E9%92%9F-%E4%BB%BB%E5%8A%A1%E6%B8%85%E5%8D%95/id1258530160?mt=12) | 时间管理工具，结合待办任务清单和番茄工作法。                 |                                   |
+| [番茄土豆](https://mac.pomotodo.com/intl/zh-CN)              | 番茄工作法 + 任务管理。                                      |                                   |
+| [滴答清单](https://dida365.com/about/download)               | 高效完成任务和规划时间的应用，跨设备云同步、周期提醒、清单管理、清晰分类、协作和集成日历。 |                                   |
+| [things](https://culturedcode.com/things/)                   | GTD 任务管理工具，比 OmniFocus 更加简易。                    |                                   |
 
 
 
