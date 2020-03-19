@@ -20,19 +20,19 @@
 
 ### 系统增强
 
-| 名称                                                                                                      | 功能简述                                                                                                                                                       | 相关                              |
-| --------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------- |
-| [BetterTouchTool](https://folivora.ai/)                                                                   | 触摸板增强软件，用来代替默认的系统操作方式（组合键、修饰键、手势等）。                                                                                         | [#](https://sspai.com/post/27094) |
-| [Boom 2](https://www.globaldelight.com/boom/boom2)                                                        | 系统级音频增强程序和均衡器                                                                                                                                     |                                   |
-| [Boom 3D](https://www.globaldelight.com/boom/)                                                            | 系统级音频增强程序和均衡器，增加了 3D 音效增强。                                                                                                               |                                   |
-| [Noizio](https://itunes.apple.com/us/app/noizio/id928871589)                                              | 环境噪音模拟工具，提供多种白噪音。                                                                                                                             |                                   |
-| [Pin](https://apps.apple.com/cn/app/pin-%E5%89%AA%E8%B4%B4%E6%9D%BF%E6%89%A9%E5%B1%95/id1092997957?mt=12) | iOS / Mac 多平台剪贴板扩展工具。除了复制粘贴，还提供复制历史、[搜索](https://www.iplaysoft.com/tag/搜索)、翻译、分词、打开链接、抓图、启动应用、预览网页等功能 |                                   |
-| [Popclip](https://pilotmoon.com/popclip/)                                                                 | 增强型复制粘贴工具。                                                                                                                                           |                                   |
-| [Scroll Reverser](https://pilotmoon.com/scrollreverser/)                                                  | 鼠标增强软件，可以根据更改鼠标滚动和滑动的方向。                                                                                                               |                                   |
-| [Tickeys](http://www.yingdev.com/projects/tickeys)                                                        | 强大的键盘音效软件，提供多种键盘音效：打字机、冒泡、机械键盘、剑气等。                                                                                         |                                   |
-| [atext](https://www.trankynam.com/atext/)                                                                 | 文本输入增强软件，将常用的短语替换为定义的缩写词。                                                                                                             | [#](https://sspai.com/post/44040) |
-| [f.lux](https://justgetflux.com/)                                                                         | 调节屏幕色温工具，可以根据时间变化来改变屏幕色温。                                                                                                             |                                   |
-| [textexpander](https://textexpander.com/)                                                                 | 文本替换应用，除了缩写词替换短语外还提供输出日期、粘贴板内容、图片、指定光标位置、设置模版输出并让用户输入其中部分内容等高级功能。                             |                                   |
+| 名称                                                         | 功能简述                                                     | 相关                              |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | --------------------------------- |
+| [BetterTouchTool](https://folivora.ai/)                      | 触摸板增强软件，用来代替默认的系统操作方式（组合键、修饰键、手势等）。 | [#](https://sspai.com/post/27094) |
+| [Boom 2](https://www.globaldelight.com/boom/boom2)           | 系统级音频增强程序和均衡器                                   |                                   |
+| [Boom 3D](https://www.globaldelight.com/boom/)               | 系统级音频增强程序和均衡器，增加了 3D 音效增强。             |                                   |
+| [Noizio](https://itunes.apple.com/us/app/noizio/id928871589) | 环境噪音模拟工具，提供多种白噪音。                           |                                   |
+| [Pin](https://apps.apple.com/cn/app/pin-%E5%89%AA%E8%B4%B4%E6%9D%BF%E6%89%A9%E5%B1%95/id1092997957?mt=12) | iOS / Mac 多平台剪贴板扩展工具。除了复制粘贴，还提供复制历史、搜索、翻译、分词、打开链接、抓图、启动应用、预览网页等功能 |                                   |
+| [Popclip](https://pilotmoon.com/popclip/)                    | 增强型复制粘贴工具。                                         |                                   |
+| [Scroll Reverser](https://pilotmoon.com/scrollreverser/)     | 鼠标增强软件，可以根据更改鼠标滚动和滑动的方向。             |                                   |
+| [Tickeys](http://www.yingdev.com/projects/tickeys)           | 强大的键盘音效软件，提供多种键盘音效：打字机、冒泡、机械键盘、剑气等。 |                                   |
+| [atext](https://www.trankynam.com/atext/)                    | 文本输入增强软件，将常用的短语替换为定义的缩写词。           | [#](https://sspai.com/post/44040) |
+| [f.lux](https://justgetflux.com/)                            | 调节屏幕色温工具，可以根据时间变化来改变屏幕色温。           |                                   |
+| [textexpander](https://textexpander.com/)                    | 文本替换应用，除了缩写词替换短语外还提供输出日期、粘贴板内容、图片、指定光标位置、设置模版输出并让用户输入其中部分内容等高级功能。 |                                   |
 
 ### 快捷工具
 
@@ -196,7 +196,7 @@
 | [Alfred](https://www.alfredapp.com/) + [扇贝插件](https://github.com/alswl/shanbay-alfred2)「★」 | 方便快捷的单词查询、添加单词到词库、发音。                   |      |
 | [Alfred](https://www.alfredapp.com/) + [有道翻译插件](https://github.com/whyliam/whyliam.workflows.youdao)「★」 | 方便快捷的单词查询，支持英译中、中译英、翻译短语、发音、双击快速翻译，同步单词本。 |      |
 | [iTranslate](https://www.itranslate.com/)                    | Mac 平台的翻译工具，支持全世界超过 80 种语言发音和输出。     |      |
-| [欧路词典(eudic)](https://www.eudic.net/v4/en/app/eudic)     | 欧路词典客户端，内置常用英汉词条 30 多万个，支持学习笔记、生词本多平台同步，让你随时随地学英语。 |      |
+| [欧路词典（eudic）](https://www.eudic.net/v4/en/app/eudic)   | 欧路词典客户端，内置常用英汉词条 30 多万个，支持学习笔记、生词本多平台同步，让你随时随地学英语。 |      |
 | [网易有道词典](https://cidian.youdao.com/index-mac.html)     | 有道词典 Mac 版。多语言翻译、海量词汇、中英百科、单词本、取词划词。 |      |
 
 ## 应用软件
@@ -219,6 +219,8 @@
 | [Wunderlist](https://todoist.com/mac) | 奇妙清单跨平台的任务管理器与移动应用程序。 |      |
 | 小番茄                                |                                            |      |
 | 番茄土豆                              |                                            |      |
+| 滴答清单                              |                                            |      |
+| things                                |                                            |      |
 
 
 
@@ -240,6 +242,7 @@
 | --------- | -------- | ---- |
 | Mindnode  |          |      |
 | XMind ZEN |          |      |
+| 幕布      |          |      |
 
 
 
