@@ -233,7 +233,7 @@
 | [NeatReader](https://www.neat-reader.cn/downloads/mac)       | 新世代 EPUB 阅读器，跨平台，云端存储文件、笔记、进度。       |                                   |
 | [PDF Expert](https://pdfexpert.com/)「★」                    | 专业的 PDF 阅读器，阅读、批注 PDF，编辑文本，添加照片，填写表单，签署合同，前所未有的体验。 |                                   |
 | [calibre](https://calibre-ebook.com/download_osx)「★」       | [开源](https://github.com/kovidgoyal/calibre) 电子书管理工具，电子书格式转换神器。包括图书馆管理，各种格式转换，电子书阅读器同步功能。 |                                   |
-| [稻壳阅读器](https://www.daokeyuedu.com/)                    | 轻量 PDF 阅读器，体积小、功能全、启动速度快。**这个软件是我目前在公司所开发的产品，出于私心的原因，放这里了。** |                                   |
+| [稻壳阅读器](https://www.daokeyuedu.com/)                    | 轻量 PDF 阅读器，体积小、功能全、启动速度快。**这个软件是我目前在公司所开发的产品，出于私心的原因，推荐给大家。** |                                   |
 | [Kindle for Mac](https://apps.apple.com/cn/app/kindle/id405399194?mt=12) | Kindle 官方出品的阅读器，可以阅读在 kindle 电子书商店购买的电子书 和 本地电子书。 |                                   |
 
 ### 思维导图
