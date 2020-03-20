@@ -226,23 +226,23 @@
 
 ### 阅读软件
 
-| 名称           | 功能简述 | 相关 |
-| -------------- | -------- | ---- |
-| Clearview      |          |      |
-| MarginNote     |          |      |
-| NeatReader     |          |      |
-| PDF Expert     |          |      |
-| calibre        |          |      |
-| 稻壳阅读器     |          |      |
-| Kindle for Mac |          |      |
+| 名称                                                         | 功能简述                                                     | 相关                              |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | --------------------------------- |
+| [Clearview](https://apps.apple.com/cn/app/clearview/id557090104?mt=12) | 简洁易用的电子书阅读器，标签页浏览外观，直观好用的图书管理功能，支持 PDF、EPUB、MOBI、CHM、FB2、CBR、CBZ 等流行的电子书格式。 |                                   |
+| [MarginNote](https://www.marginnote.com/chinese/home)        | 功能强大的阅读和学习工具软件，支持 PDF、EPUB 格式。支持注解，链接，批注，笔记，大纲，思维导图，学习卡。 | [#](https://sspai.com/post/47317) |
+| [NeatReader](https://www.neat-reader.cn/downloads/mac)       | 新世代 EPUB 阅读器，跨平台，云端存储文件、笔记、进度。       |                                   |
+| [PDF Expert](https://pdfexpert.com/)「★」                    | 专业的 PDF 阅读器，阅读、批注 PDF，编辑文本，添加照片，填写表单，签署合同，前所未有的体验。 |                                   |
+| [calibre](https://calibre-ebook.com/download_osx)「★」       | [开源](https://github.com/kovidgoyal/calibre) 电子书管理工具，电子书格式转换神器。包括图书馆管理，各种格式转换，电子书阅读器同步功能。 |                                   |
+| [稻壳阅读器](https://www.daokeyuedu.com/)                    | 轻量 PDF 阅读器，体积小、功能全、启动速度快。**这个软件是我目前在公司所开发的产品，出于私心的原因，放这里了。** |                                   |
+| [Kindle for Mac](https://apps.apple.com/cn/app/kindle/id405399194?mt=12) | Kindle 官方出品的阅读器，可以阅读在 kindle 电子书商店购买的电子书 和 本地电子书。 |                                   |
 
 ### 思维导图
 
-| 名称      | 功能简述 | 相关 |
-| --------- | -------- | ---- |
-| Mindnode  |          |      |
-| XMind ZEN |          |      |
-| 幕布      |          |      |
+| 名称                                                         | 功能简述                                                     | 相关 |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
+| [MindNode](https://apps.apple.com/cn/app/mindnode-mind-map/id1289197285?mt=12) | 思维导图软件，快速创建思维导图，支持 iCloud 共享。           |      |
+| [XMind](https://www.xmind.cn/download/)                      | 思维导图软件，操作界面简洁，稳定性高，功能强大，支持 Markdown。 |      |
+| [幕布](https://mubu.com/apps)                                | 极简大纲笔记，一键生成思维导图，结构化笔记。                 |      |
 
 
 
