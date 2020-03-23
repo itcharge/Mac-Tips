@@ -252,7 +252,7 @@
 | ------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
 | [Mailbutler](https://www.mailbutler.io/downloads) | 邮箱插件。以插件聚合的形式配合 Mail.app 完成各种邮件操作工作，比如邮件定时发送、超出邮件服务商规定大小的附件自动转存至 Dropbox，将邮件转入 Evernote 保存，发送撤销等。 |      |
 | [spark 邮件客户端](https://sparkmailapp.com/zh)   | 第三方邮件客户端。多设备同步账户与设定，智能收件箱，智能识别垃圾邮件，支持将邮件内的附件存至各种云空间。                                                               |      |
-| [网易邮箱大师](https://mail.163.com/dashi/)       | 全平台邮箱客户端。                                                                                                                                                     |      |
+| [网易邮箱大师](https://mail.163.com/dashi/)「★」  | 全平台邮箱客户端。                                                                                                                                                     |      |
 
 ### 手机管理
 
@@ -282,60 +282,60 @@
 
 ### 笔记应用
 
-| 名称                                                         | 功能简述                                                     | 相关                              |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | --------------------------------- |
-| Apple Notes                                                  | 苹果官方出品的备忘录。适合记录短文字、随手记。               |                                   |
-| [Microsoft OneNote](https://www.onenote.com/)                | Microsoft 开发的笔记类软件，免费、编辑功能、层次分明、自由布局。 |                                   |
-| [Mweb](https://zh.mweb.im/)                                  | 专业的 Markdown 写作、记笔记、静态博客生成软件。             |                                   |
-| [Notability](https://apps.apple.com/cn/app/notability/id736189492?mt=12) | 简约的笔记和标注软件。通常在 iPad 上使用对应软件，Mac 端下一般用来看笔记。 |                                   |
-| [Typora](https://typora.io/)「★」                            | 支持实时预览的 Markdown 文本编辑器。                         | [#](https://sspai.com/post/54912) |
-| [Ulysses](https://www.ulysses.app/)                          | 面向 Mac、iPhone 和 iPad 的一站式写作环境。自带文档库、云端同步并支持备份。 |                                   |
-| [为知笔记](https://www.wiz.cn/zh-cn/)「★」                   | 一键收藏、全端全文检索、多级目录、Markdown。支持私有部署 Docker 镜像。 |                                   |
-| [熊掌记（bear）](https://bear.app/cn/)                       | 优雅、灵活的写作笔记应用。支持 Markdown。                    |                                   |
-| [Notion](https://www.notion.so/)                             | 将笔记、知识库和任务管理无缝整合的协作平台。无限层级，使用 Block 代表一切。 | [#](https://sspai.com/post/39694) |
-| [印象笔记](https://www.yinxiang.com/product/main/)           | 一站式完成知识信息的收集备份、高效记录、分享、多端同步和永久保存。 |                                   |
-| [小章鱼笔记](https://shimo.im/octopus#/)                     | 支持 Markdown 的所见即所得编辑器。                           |                                   |
-| [有道云笔记](http://note.youdao.com/)                        | 支持 Markdown，OCR 扫描，多端同步。                          |                                   |
+| 名称                                                                     | 功能简述                                                                    | 相关                              |
+| ------------------------------------------------------------------------ | --------------------------------------------------------------------------- | --------------------------------- |
+| Apple Notes                                                              | 苹果官方出品的备忘录。适合记录短文字、随手记。                              |                                   |
+| [Microsoft OneNote](https://www.onenote.com/)                            | Microsoft 开发的笔记类软件，免费、编辑功能、层次分明、自由布局。            |                                   |
+| [Mweb](https://zh.mweb.im/)                                              | 专业的 Markdown 写作、记笔记、静态博客生成软件。                            |                                   |
+| [Notability](https://apps.apple.com/cn/app/notability/id736189492?mt=12) | 简约的笔记和标注软件。通常在 iPad 上使用对应软件，Mac 端下一般用来看笔记。  |                                   |
+| [Notion](https://www.notion.so/)                                         | 将笔记、知识库和任务管理无缝整合的协作平台。无限层级，使用 Block 代表一切。 | [#](https://sspai.com/post/39694) |
+| [Typora](https://typora.io/)「★」                                        | 支持实时预览的 Markdown 文本编辑器。                                        | [#](https://sspai.com/post/54912) |
+| [Ulysses](https://www.ulysses.app/)                                      | 面向 Mac、iPhone 和 iPad 的一站式写作环境。自带文档库、云端同步并支持备份。 |                                   |
+| [为知笔记](https://www.wiz.cn/zh-cn/)「★」                               | 一键收藏、全端全文检索、多级目录、Markdown。支持私有部署 Docker 镜像。      |                                   |
+| [印象笔记](https://www.yinxiang.com/product/main/)                       | 一站式完成知识信息的收集备份、高效记录、分享、多端同步和永久保存。          |                                   |
+| [小章鱼笔记](https://shimo.im/octopus#/)                                 | 支持 Markdown 的所见即所得编辑器。                                          |                                   |
+| [有道云笔记](http://note.youdao.com/)                                    | 支持 Markdown，OCR 扫描，多端同步。                                         |                                   |
+| [熊掌记（bear）](https://bear.app/cn/)                                   | 优雅、灵活的写作笔记应用。支持 Markdown。                                   |                                   |
 
 ###  媒体工具
 
-| 名称                                                   | 功能简述                                                     | 相关 |
-| ------------------------------------------------------ | ------------------------------------------------------------ | ---- |
-| [AirServer](https://www.airserver.com/Download)        | 将手机投影到电脑上。                                         |      |
-| Apple Music                                            | 苹果官方出品。简洁，没广告，版权，古典音乐，便宜。           |      |
-| [Display Duet](https://zh.duetdisplay.com/)            | iPad 扩展屏幕需求。将 iOS 或 Android 设备变成 Mac 和 PC 的高性能第二显示屏。 |      |
+| 名称                                                   | 功能简述                                                                                                                                                      | 相关 |
+| ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
+| Apple Music                                            | 苹果官方出品。简洁，没广告，版权，古典音乐，便宜。                                                                                                            |      |
+| QuickTime Player                                       | 苹果自带视频播放器。                                                                                                                                          |      |
+| [AirServer](https://www.airserver.com/Download)        | 将手机投影到电脑上。                                                                                                                                          |      |
+| [Display Duet](https://zh.duetdisplay.com/)            | iPad 扩展屏幕需求。将 iOS 或 Android 设备变成 Mac 和 PC 的高性能第二显示屏。                                                                                  |      |
 | [IINA](https://iina.io/)「★」                          | [开源](https://github.com/iina/iina) 视频播放器，堪称 Mac 下最好用视频播放器。基于 mpv，支持 Touch Bar，兼容 MPV 脚本、界面美观、几乎支持所有格式，网络播放。 |      |
-| [Permute](https://software.charliemonroe.net/permute/) | 格式转换软件，支持视频、音乐和图像的格式转换。               |      |
-| [QQ 音乐](https://y.qq.com/download/mac.html)          | 腾讯公司推出的网络音乐软件。                                 |      |
-| QuickTime Player                                       | 苹果自带视频播放器。                                         |      |
-| [网易云音乐](https://music.163.com/#/download)         | 网易公司推出的网络音乐软件。                                 |      |
-| [虾米音乐](https://emumo.xiami.com/apps/mobile)        | 阿里旗下的网络音乐软件。                                     |      |
+| [Permute](https://software.charliemonroe.net/permute/) | 格式转换软件，支持视频、音乐和图像的格式转换。                                                                                                                |      |
+| [QQ 音乐](https://y.qq.com/download/mac.html)          | 腾讯公司推出的网络音乐软件。                                                                                                                                  |      |
+| [网易云音乐](https://music.163.com/#/download)         | 网易公司推出的网络音乐软件。                                                                                                                                  |      |
+| [虾米音乐](https://emumo.xiami.com/apps/mobile)        | 阿里旗下的网络音乐软件。                                                                                                                                      |      |
 
 
 
 ### 浏览器
 
-| 名称                                                         | 功能简述                                                     | 相关 |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
-| [FrieFox](http://www.firefox.com.cn/)                        | 火狐浏览器。                                                 |      |
-| [Google Chrome](https://www.google.cn/intl/zh-CN/chrome/)    | 谷歌浏览器，基于 Chromium 内核。                             |      |
-| [Helium](https://apps.apple.com/cn/app/helium/id1054607607?mt=12) | 始终悬浮在窗口前面的浏览器。                                 |      |
-| [Microsoft Edge](https://www.microsoft.com/zh-cn/edge)「★」  | 微软新版的 Edge 浏览器。基于 Chromium 内核，可安装 Chrome 扩展，多平台同步书签，历史记录。 |      |
-| [Safari](https://www.apple.com.cn/safari/)                   | Mac 自带的浏览器。iCloud 同步，设备之间无缝衔接浏览。        |      |
+| 名称                                                              | 功能简述                                                                                   | 相关 |
+| ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ---- |
+| [FrieFox](http://www.firefox.com.cn/)                             | 火狐浏览器。                                                                               |      |
+| [Google Chrome](https://www.google.cn/intl/zh-CN/chrome/)         | 谷歌浏览器，基于 Chromium 内核。                                                           |      |
+| [Helium](https://apps.apple.com/cn/app/helium/id1054607607?mt=12) | 始终悬浮在窗口前面的浏览器。                                                               |      |
+| [Microsoft Edge](https://www.microsoft.com/zh-cn/edge)「★」       | 微软新版的 Edge 浏览器。基于 Chromium 内核，可安装 Chrome 扩展，多平台同步书签，历史记录。 |      |
+| [Safari](https://www.apple.com.cn/safari/)                        | Mac 自带的浏览器。iCloud 同步，设备之间无缝衔接浏览。                                      |      |
 
 
 
 ### 即时通讯
 
-| 名称                                                         | 功能简述                                                     | 相关 |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
-| [QQ](https://im.qq.com/)                                     | Mac 下 QQ 客户端，简洁无弹窗。                               |      |
-| [Telegram](https://telegram.org/)                            | 跨平台的即时通讯软件，用户可以相互交换加密与自毁消息，发送照片、影片等所有类型文件。 |      |
-| [微信](https://mac.weixin.qq.com/?lang=zh_CN)                | Mac 下微信客户端。                                           |      |
-| [钉钉](https://page.dingtalk.com/wow/dingtalk/act/download)  | 办公必备软件，企业级办公通讯免费平台。                       |      |
-| [阿里旺旺](https://alimarket.taobao.com/markets/qnww/portal-group/ww/download) | 阿里公司为淘宝和阿里巴巴交易推出的即时沟通交易工具。         |      |
-| [WhatsApp](https://www.whatsapp.com/download)                | Facebook 旗下消息应用。对信息进行端对端的加密。              |      |
-| iMessage（信息）                                             | 苹果设备自带的免费信息发送应用。                             |      |
+| 名称                                                                           | 功能简述                                                                             | 相关 |
+| ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ | ---- |
+| [QQ](https://im.qq.com/)                                                       | Mac 下 QQ 客户端，简洁无弹窗。                                                       |      |
+| [Telegram](https://telegram.org/)                                              | 跨平台的即时通讯软件，用户可以相互交换加密与自毁消息，发送照片、影片等所有类型文件。 |      |
+| [WhatsApp](https://www.whatsapp.com/download)                                  | Facebook 旗下消息应用。对信息进行端对端的加密。                                      |      |
+| [微信](https://mac.weixin.qq.com/?lang=zh_CN)                                  | Mac 下微信客户端。                                                                   |      |
+| [钉钉](https://page.dingtalk.com/wow/dingtalk/act/download)                    | 办公必备软件，企业级办公通讯免费平台。                                               |      |
+| [阿里旺旺](https://alimarket.taobao.com/markets/qnww/portal-group/ww/download) | 阿里公司为淘宝和阿里巴巴交易推出的即时沟通交易工具。                                 |      |
+| iMessage（信息）                                                               | 苹果设备自带的免费信息发送应用。                                                     |      |
 
 
 
