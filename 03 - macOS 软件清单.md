@@ -341,15 +341,15 @@
 
 ### 云盘同步
 
-| 名称                                                                                                              | 功能简述                                                                       | 相关 |
-| ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ---- |
-| [Dropbox](http://www.dropboxchina.com/Download/dropbox-for-mac.html)                                              | 文件同步、备份、共享云存储软件。                                               |      |
-| [OneDrive](https://products.office.com/zh-cn/onedrive/download)                                                   | 微软开发的云存储服务，相册自动备份，文件多端同步、备份、共享，在线 Office。    |      |
-| [owncloud](https://owncloud.org/)                                                                                 | 基于云的协作平台的开源软件，用于搭建个人私有云服务的工具，提供私人的文件同步。 |      |
-| [亿方云](https://www.fangcloud.com/)                                                                              | 文件云存储、文件共享、协同办公、移动办公服务。                                 |      |
-| [坚果云](https://www.jianguoyun.com/s/downloads)                                                                  | 自动智能同步您的文件，随时随地访问同步文件。                                   |      |
-| [微云同步助手](https://www.weiyun.com/download.html)                                                              | 文件实时同步到云端，方便地在手机和电脑之间同步文件、推送照片和传输数据。       |      |
-| [百度网盘 Mac 同步版（已停止更新）](http://issuecdn.baidupcs.com/issue/netdisk/macapk/BaiduNetdisk_mac_2.4.5.dmg) | 支持便捷地查看、上传、下载百度云端各类数据。。                                 |      |
+| 名称                                                         | 功能简述                                                     | 相关 |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
+| [Dropbox](http://www.dropboxchina.com/Download/dropbox-for-mac.html) | 文件同步、备份、共享云存储软件。                             |      |
+| [OneDrive](https://products.office.com/zh-cn/onedrive/download) | 微软开发的云存储服务，相册自动备份，文件多端同步、备份、共享，在线 Office。 |      |
+| [owncloud](https://owncloud.org/)                            | 基于云的协作平台的开源软件，用于搭建个人私有云服务的工具，提供私人的文件同步。 |      |
+| [亿方云](https://www.fangcloud.com/)                         | 文件云存储、文件共享、协同办公、移动办公服务。               |      |
+| [坚果云](https://www.jianguoyun.com/s/downloads)             | 自动智能同步您的文件，随时随地访问同步文件。                 |      |
+| [微云同步助手](https://www.weiyun.com/download.html)         | 文件实时同步到云端，方便地在手机和电脑之间同步文件、推送照片和传输数据。 |      |
+| [百度网盘 Mac 同步版（已停止更新）](http://issuecdn.baidupcs.com/issue/netdisk/macapk/BaiduNetdisk_mac_2.4.5.dmg) | 支持便捷地查看、上传、下载百度云端各类数据。                 |      |
 
 
 
@@ -365,7 +365,7 @@
 | Logoist                  | Logo 设计工具                        |      |
 | OmniGrafle               | 绘制图表，流程图，组织结构图以及插图 |      |
 | OmniOutliner             | 大纲编辑工具                         |      |
-| Polarr Photo Editor Lite |                                      |      |
+| Polarr Photo Editor Lite | 泼辣修图 Mac 版                      |      |
 | Sip                      | 取色工具                             |      |
 | Sketch                   | 扁平化 UI 设计工具                   |      |
 
