@@ -1,6 +1,6 @@
 # 1. Mac & macOS
 
--  **Mac**：指的是苹果电脑。苹果公司把自己生产的一系列电脑统称为 Mac。
+- **Mac**：指的是苹果电脑。苹果公司把自己生产的一系列电脑统称为 Mac。
   - Mac 笔记本包括 MacBook（停售）、MacBook Air（在售）、MacBook Pro（在售）。
   - Mac 一体机名字叫 iMac，性能更好的一体机叫 iMac Pro。
   - Mac 主机有两个，一个是 Mac Pro（性能最强）、另一个是 Mac mini（主打便携）。
