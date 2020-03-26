@@ -90,7 +90,7 @@ macOS 的桌面、顶部菜单栏、Dock 程序坞、Finder 等都和 Windows �
 
 - 通知中心：位置在桌面右上角。点击会弹出通知的侧边栏。风格类似于 iPhone 的通知中心。应用程序 的通知和快捷功能都在通知中心。这里可以显示今天的日期、天气、提醒事项等。还可以快速开关「夜览」、「勿扰模式」。
 
-  ![](../../../WeiYunDrive/Blog%20Images/notification.jpg)
+  ![](http://qncdn.bujige.net/images/20200326152519.jpg)
 
 
 
