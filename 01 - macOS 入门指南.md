@@ -111,7 +111,7 @@ macOS 的软件一般来说有两种常用下载方式：
 - App Store：苹果官方提供的 App 商城。
 - 应用官网：如果应用没有在 App Store 上线，可以去应用的官网下载 macOS 版本的软件。
 
-> 注：关于 Mac 有哪些好用的软件，以及这些软件的官方下载渠道具体可以看我写的这篇文章： [**04 - macOS 软件清单**](https://github.com/bujige/macOS-Tips/blob/master/04 - macOS 软件清单.md)。
+> 注：关于 Mac 有哪些好用的软件，以及这些软件的官方下载渠道具体可以看我写的这篇文章： [**04 - macOS 软件清单**](https://github.com/bujige/macOS-Tips/blob/master/04%20-%20macOS%20%E8%BD%AF%E4%BB%B6%E6%B8%85%E5%8D%95.md)。
 
 ### 3.3.2 软件安装
 
