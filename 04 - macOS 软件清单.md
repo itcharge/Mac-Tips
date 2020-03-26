@@ -341,15 +341,15 @@
 
 ### 云盘同步
 
-| 名称                                                         | 功能简述                                                     | 相关 |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
-| [Dropbox](http://www.dropboxchina.com/Download/dropbox-for-mac.html) | 文件同步、备份、共享云存储软件。                             |      |
-| [OneDrive](https://products.office.com/zh-cn/onedrive/download) | 微软开发的云存储服务，相册自动备份，文件多端同步、备份、共享，在线 Office。 |      |
-| [owncloud](https://owncloud.org/)                            | 基于云的协作平台的开源软件，用于搭建个人私有云服务的工具，提供私人的文件同步。 |      |
-| [亿方云](https://www.fangcloud.com/)                         | 文件云存储、文件共享、协同办公、移动办公服务。               |      |
-| [坚果云](https://www.jianguoyun.com/s/downloads)             | 自动智能同步您的文件，随时随地访问同步文件。                 |      |
-| [微云同步助手](https://www.weiyun.com/download.html)         | 文件实时同步到云端，方便地在手机和电脑之间同步文件、推送照片和传输数据。 |      |
-| [百度网盘 Mac 同步版（已停止更新）](http://issuecdn.baidupcs.com/issue/netdisk/macapk/BaiduNetdisk_mac_2.4.5.dmg) | 支持便捷地查看、上传、下载百度云端各类数据。                 |      |
+| 名称                                                                                                              | 功能简述                                                                       | 相关 |
+| ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ---- |
+| [Dropbox](http://www.dropboxchina.com/Download/dropbox-for-mac.html)                                              | 文件同步、备份、共享云存储软件。                                               |      |
+| [OneDrive](https://products.office.com/zh-cn/onedrive/download)                                                   | 微软开发的云存储服务，相册自动备份，文件多端同步、备份、共享，在线 Office。    |      |
+| [owncloud](https://owncloud.org/)                                                                                 | 基于云的协作平台的开源软件，用于搭建个人私有云服务的工具，提供私人的文件同步。 |      |
+| [亿方云](https://www.fangcloud.com/)                                                                              | 文件云存储、文件共享、协同办公、移动办公服务。                                 |      |
+| [坚果云](https://www.jianguoyun.com/s/downloads)                                                                  | 自动智能同步您的文件，随时随地访问同步文件。                                   |      |
+| [微云同步助手](https://www.weiyun.com/download.html)                                                              | 文件实时同步到云端，方便地在手机和电脑之间同步文件、推送照片和传输数据。       |      |
+| [百度网盘 Mac 同步版（已停止更新）](http://issuecdn.baidupcs.com/issue/netdisk/macapk/BaiduNetdisk_mac_2.4.5.dmg) | 支持便捷地查看、上传、下载百度云端各类数据。                                   |      |
 
 
 
@@ -371,16 +371,16 @@
 
 ### 图片相关
 
-| 名称        | 功能简述                                                                       | 相关 |
-| ----------- | ------------------------------------------------------------------------------ | ---- |
-| ImageOptim  |                                                                                |      |
-| InstaBro    | 下载 Instagram 图                                                              |      |
-| PPduck      | 无损压图工具                                                                   |      |
-| PicGo       | 图片上传的工具，支持多个图床，拖拽图片上传，上传前重命名，上传后自动复制链接。 |      |
-| TinyPNG4Mac |                                                                                |      |
-| Zoommy      | 搜索高质量无版权图的工具                                                       |      |
-| iPic        |                                                                                |      |
-| uPic        |                                                                                |      |
+| 名称                                                     | 功能简述                                                                                                                    | 相关 |
+| -------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ---- |
+| [ImageOptim](https://imageoptim.com/mac)                 | [开源]() 图片压缩软件                                                                                                       |      |
+| [InstaBro](https://instabro.app/)                        | 浏览、下载 Instagram 图的工具。                                                                                             |      |
+| [PPduck](http://ppduck.com/)                             | 图片压缩神器                                                                                                                |      |
+| [PicGo](https://molunerfinn.com/PicGo/)「★」             | [开源](https://github.com/Molunerfinn/PicGo) 图片上传的工具，支持多个图床，拖拽图片上传，上传前重命名，上传后自动复制链接。 |      |
+| [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac)    | [开源](https://github.com/kyleduo/TinyPNG4Mac) 图片压缩软件，TingPNG 的第三方本地客户端。                                   |      |
+| [Zoommy](https://zoommyapp.com/)                         | 搜索高质量无版权图的工具，聚合了 50 多个图库源。                                                                            |      |
+| [iPic](https://apps.apple.com/cn/app/id1101244278?mt=12) | 图床神器。Markdown 图床、文件上传工具                                                                                       |      |
+| [uPic](https://github.com/gee1k/uPic)                    | [开源](https://github.com/gee1k/uPic/releases) 图床客户端。                                                                 |      |
 
 
 
