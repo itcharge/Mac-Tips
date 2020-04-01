@@ -104,7 +104,7 @@ macOS 的桌面、顶部菜单栏、Dock 程序坞、Finder 等都和 Windows �
 
 ### 3.3.1 软件下载
 
-macOS 系统下的软件后缀名为`.app`。和 Windows 下的软件并不通用。我们下载对应的 macOS 版本软件。
+macOS 系统下的软件后缀名为`.app`。和 Windows 下的软件并不通用。我们需要下载对应的 macOS 版本软件。
 
 macOS 的软件一般来说有两种常用下载方式：
 
