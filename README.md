@@ -8,9 +8,7 @@ macOS 系统的使用技巧介绍、常用软件推荐、效率工具推荐。�
 
 高效率办公，慢节奏生活。扫一扫二维码，期待与你相遇。
 
-![](http://qncdn.bujige.net/images/20200407162710.png)
-
-
+![](http://qncdn.bujige.net/images/20200407163318.png)
 
 
 
