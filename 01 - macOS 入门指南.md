@@ -21,7 +21,6 @@ Windows 系统下的软件后缀名通常为`.exe`，而 macOS 系统下的软�
 
 ![](http://qncdn.bujige.net/images/20200325161045.png)
 
-
 ## 2.2 文件结构不同
 
 macOS 的文件系统格式是 APFS，而 Windows 的文件系统格式是 NTFS。因为版权和商业上的原因，macOS 名义上只能读取 NTFS 格式的硬盘，不支持写入。但是我们可以使用第三方付费软件（例如 [Paragon NTFS](https://china.paragon-software.com/home-mac/ntfs-for-mac/)、[Tuxera NTFS](https://www.tuxera.com/products/tuxera-ntfs-for-mac-cn/)）来读写 NTFS 格式的硬盘，或者将移动硬盘改为兼容格式（ExFAT）。
@@ -76,7 +75,7 @@ macOS 的桌面、顶部菜单栏、Dock 程序坞、Finder 等都和 Windows �
 
   - 这里边包含了 macOS 的常用操作选项。包括：开机、关机、系统偏好设置。
 
-  ![AppleMenu](http://qncdn.bujige.net/images/20200326135807.jpg)
+![AppleMenu](http://qncdn.bujige.net/images/20200326135807.jpg)
 
 - 应用菜单：位置在  按钮的右侧。包含了当前应用的菜单栏选项。
 
@@ -86,18 +85,16 @@ macOS 的桌面、顶部菜单栏、Dock 程序坞、Finder 等都和 Windows �
 
   - 图标栏：默认放置了一些系统常用快捷工具。比如：「Wi-Fi」、「调节音量」、「查看日期和时间」、「输入法状态」、「聚焦搜索」、「Siri」，以及最右侧的「通知中心」。
 
-  ![](http://qncdn.bujige.net/images/20200326140212.png)
+
+![](http://qncdn.bujige.net/images/20200326140212.png)
 
 - 通知中心：位置在桌面右上角。点击会弹出通知的侧边栏。风格类似于 iPhone 的通知中心。应用程序 的通知和快捷功能都在通知中心。这里可以显示今天的日期、天气、提醒事项等。还可以快速开关「夜览」、「勿扰模式」。
 
-  ![](http://qncdn.bujige.net/images/20200326152519.jpg)
-
-
+![](http://qncdn.bujige.net/images/20200326152519.jpg)
 
 - 启动台：点击「程序坞」或者使用「触摸板」进行「四指缩放」操作，就可以显示 macOS 中所有安装的软件。还可以进行整理，归纳到不同的「分类文件夹」中，图标多的话，还可以分页。风格类似于 iPhone 的界面。
 
 ![](http://qncdn.bujige.net/images/20200326143759.png)
-
 
 
 ## 3.3 软件相关
