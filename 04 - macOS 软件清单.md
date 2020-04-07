@@ -176,10 +176,22 @@
 
 ### 虚拟机
 
-| 名 称                                                           | 功能简述                            | 相 关 |
-| --------------------------------------------------------------- | ----------------------------------- | ----- |
-| [Parallels Desktop](https://www.parallels.cn/)                  | 虚拟机工具，在 Mac 上运行 Windows。 |       |
-| [VMware Fusion](https://www.vmware.com/cn/products/fusion.html) | 虚拟机工具，在 Mac 上运行 Windows。 |       |
+| 名 称                                                           | 功能简述                                                                                                                | 相 关 |
+| --------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- | ----- |
+| [Parallels Desktop](https://www.parallels.cn/)                  | 虚拟机工具，在 Mac 上运行 Windows。                                                                                     |       |
+| [VMware Fusion](https://www.vmware.com/cn/products/fusion.html) | 虚拟机工具，在 Mac 上运行 Windows。                                                                                     |       |
+| [VirtualBox](https://www.virtualbox.org/)                       | 开源虚拟机软件，可虚拟的系统包括可虚拟的系统包括 Windows、macOS、Linux、OpenBSD、Solaris、IBM OS2、Android 等操作系统。 |       |
+
+### FTP 客户端
+
+| 名 称                                       | 功能简述                                                     | 相 关 |
+| ------------------------------------------- | ------------------------------------------------------------ | ----- |
+| [Cyberduck](https://cyberduck.io/)          | 单栏视图 Mac FTP 客户端。支持 FTP、SFTP、WebDAV、Amazon S3、OpenStack Swift、Backblaze B2、Microsoft Azure & OneDrive、Google Drive 和 Dropbox。 |       |
+| [FileZilla](https://filezilla-project.org/) | 快速、可信赖的 FTP 客户端以及服务器端开放源代码程式，具有多种特色、直觉的接口。支持 FTP、FTPS、SFTP 等文件传输协议。 |       |
+| [ForkLift](https://binarynights.com/)       | Mac 平台的 FTP 客户端，支持 FTP、SFTP、WebDAV、S3、iDisk、SMB、AFP 和 NIS 协议。 |       |
+| [Transmit](https://panic.com/transmit/)     | FTP 客户端工具，支持 FTP、SFTP、WebDAV、S3。                 |       |
+
+
 
 ### 日历工具
 
@@ -330,18 +342,19 @@
 
 ### 即时通讯
 
-| 名 称                                                                          | 功能简述                                                                             | 相 关 |
-| ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ | ----- |
-| [Maipo](http://weiboformac.sinaapp.com/)                                       | 第三方的微博客户端。                                                                 |       |
-| [QQ](https://im.qq.com/)                                                       | Mac 下 QQ 客户端，简洁无弹窗。                                                       |       |
-| [RealVNC](https://www.realvnc.com/en/)                                         | 轻量型的远程控制计算机软件。                                                         |       |
-| [TeamViewer](https://www.teamviewer.com/)                                      | 远程支持、远程访问、在线协作和会议软件。个人使用免费。                               |       |
-| [Telegram](https://telegram.org/)                                              | 跨平台的即时通讯软件，用户可以相互交换加密与自毁消息，发送照片、影片等所有类型文件。 |       |
-| [WhatsApp](https://www.whatsapp.com/download)                                  | Facebook 旗下消息应用。对信息进行端对端的加密。                                      |       |
-| [微信](https://mac.weixin.qq.com/?lang=zh_CN)                                  | Mac 下微信客户端。                                                                   |       |
-| [钉钉](https://page.dingtalk.com/wow/dingtalk/act/download)                    | 办公必备软件，企业级办公通讯免费平台。                                               |       |
-| [阿里旺旺](https://alimarket.taobao.com/markets/qnww/portal-group/ww/download) | 阿里公司为淘宝和阿里巴巴交易推出的即时沟通交易工具。                                 |       |
-| iMessage（信息）                                                               | 苹果设备自带的免费信息发送应用。                                                     |       |
+| 名 称                                                                          | 功能简述                                                                               | 相 关 |
+| ------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------- | ----- |
+| [Gitter](https://gitter.im/)                                                   | 一个聊天和网络平台，通过消息、内容和发现，帮助管理、发展和连接社区。对开发者极为友好。 |       |
+| [Maipo](http://weiboformac.sinaapp.com/)                                       | 第三方的微博客户端。                                                                   |       |
+| [QQ](https://im.qq.com/)                                                       | Mac 下 QQ 客户端，简洁无弹窗。                                                         |       |
+| [RealVNC](https://www.realvnc.com/en/)                                         | 轻量型的远程控制计算机软件。                                                           |       |
+| [TeamViewer](https://www.teamviewer.com/)                                      | 远程支持、远程访问、在线协作和会议软件。个人使用免费。                                 |       |
+| [Telegram](https://telegram.org/)                                              | 跨平台的即时通讯软件，用户可以相互交换加密与自毁消息，发送照片、影片等所有类型文件。   |       |
+| [WhatsApp](https://www.whatsapp.com/download)                                  | Facebook 旗下消息应用。对信息进行端对端的加密。                                        |       |
+| [微信](https://mac.weixin.qq.com/?lang=zh_CN)                                  | Mac 下微信客户端。                                                                     |       |
+| [钉钉](https://page.dingtalk.com/wow/dingtalk/act/download)                    | 办公必备软件，企业级办公通讯免费平台。                                                 |       |
+| [阿里旺旺](https://alimarket.taobao.com/markets/qnww/portal-group/ww/download) | 阿里公司为淘宝和阿里巴巴交易推出的即时沟通交易工具。                                   |       |
+| iMessage（信息）                                                               | 苹果设备自带的免费信息发送应用。                                                       |       |
 
 
 
@@ -405,77 +418,72 @@
 
 ### IDE、编辑器
 
-| 名 称              | 功能简述           | 相 关 |
-| ------------------ | ------------------ | ----- |
-| Android Studio     |                    |       |
-| AppCode            |                    |       |
-| Atom               |                    |       |
-| CLion              |                    |       |
-| CocosCreator       |                    |       |
-| CodeRunner         |                    |       |
-| GoLand             |                    |       |
-| InteliJ IDEA       |                    |       |
-| PhpStorm           |                    |       |
-| PyCharm            |                    |       |
-| Sublime Text       |                    |       |
-| TextMate           |                    |       |
-| Unity              |                    |       |
-| Unreal Engine 4    |                    |       |
-| Visual Studio Code |                    |       |
-| WebStorm           |                    |       |
-| Xcode              |                    |       |
-| wechatwebdevtools  | （微信开发者工具） |       |
+| 名 称                                                                                        | 功能简述                                                                                                                                                                                                                                                        | 相 关 |
+| -------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
+| [Android Studio](https://developer.android.google.cn/studio?hl=zh-cn)                        | 基于 IntelliJ IDEA 的官方 Android 应用开发集成开发环境 (IDE)。除了 IntelliJ 强大的代码编辑器和开发者工具，Android Studio 提供了更多可提高 Android 应用构建效率的功能。                                                                                          |       |
+| [AppCode](https://www.jetbrains.com/objc/)                                                   | JetBrains 用以替代的 Xcode 的一款 Objective-C 集成开发环境，支持 Subversion、Git、Perforce 和 CVS 等版本控制工具，可以直接打开 Xcode 工程，具有代码自动完成和提示等功能。                                                                                       |       |
+| [Atom](https://atom.io/)                                                                     | GitHub 专门为程序员推出的一个跨平台文本编辑器，具有简洁和直观的图形用户界面，并有很多有趣的特点：支持 CSS、HTML、JavaScript 等网页编程语言。它支持宏，自动完成分屏功能，集成了文件管理器。                                                                      |       |
+| [CLion](https://www.jetbrains.com/clion/)                                                    | 一款专为开发 C 及 C++ 所设计的跨平台 IDE。CLion 以 IntelliJ 为基础设计，同时还包含了许多智能功能来提高开发人员的生产力。                                                                                                                                        |       |
+| [CocosCreator](https://www.cocos.com/creator)                                                | 以内容创作为核心的一体化游戏开发工具。Cocos Creator 是以内容创作为核心，实现了脚本化、组件化和数据驱动的游戏开发工具。 具备了易于上手的内容生产工作流，以及功能强大的开发者工具套件，可用于实现游戏逻辑和高性能游戏效果。                                       |       |
+| [CodeRunner](https://coderunnerapp.com/)                                                     | 一款功能强大但使用简单的多语言编程工具，官方介绍支持几乎所有语言（20 种语言），同时支持语法高亮、代码提示和多种界面主题，在学习新的语言或编写简单测试代码时非常实用。                                                                                           |       |
+| [GoLand](https://www.jetbrains.com/go/)                                                      | 专门为开发 Go 语言所设计的跨平台 IDE。                                                                                                                                                                                                                          |       |
+| [InteliJ IDEA](https://www.jetbrains.com/idea/)                                              | Java 编程语言开发的集成环境。在智能代码助手、代码自动提示、重构、J2EE 支持、各类版本工具(git、svn 等)、JUnit、CVS 整合、代码分析、 创新的 GUI 设计等方面的功能可以说是超常的。                                                                                  |       |
+| [PhpStorm](https://www.jetbrains.com/phpstorm/)                                              | JetBrains 公司开发的一款商业的 PHP 集成开发工具，旨在提高用户效率，可深刻理解用户的编码，提供智能代码补全，快速导航以及即时错误检查。                                                                                                                           |       |
+| [PyCharm](https://www.jetbrains.com/pycharm/)                                                | JetBrains 打造的一款 Python IDE，带有一整套可以帮助用户在使用 Python 语言开发时提高其效率的工具，比如调试、语法高亮、Project 管理、代码跳转、智能提示、自动完成、单元测试、版本控制。此外，该 IDE 提供了一些高级功能，以用于支持 Django 框架下的专业 Web 开发。 |       |
+| [Sublime Text](https://www.sublimetext.com/)                                                 | 跨平台的文本编辑器，具有漂亮的用户界面和强大的功能，例如代码缩略图， Python 的插件，代码段等。                                                                                                                                                                  |       |
+| [TextMate](http://macromates.com/)                                                           | 文本编辑器软件，与 BBedit 一起并称苹果机上的 emacs 和 vim。具备出色的界面、强大的宏定义、以及可下载和编辑的宏定义包（bundles）。                                                                                                                                |       |
+| [Unity](https://unity.cn/)                                                                   | 跨平台的游戏引擎，可用于开发 Windows、MacOS、Linux、WebGL、iOS、Android 的游戏，或者 PlayStation、XBox、Switch 主机上的游戏。                                                                                                                                   |       |
+| [Unreal Engine](https://www.unrealengine.com/zh-CN/)                                         | 全球最开放、最先进的实时 3D 创作平台。殿堂级的实时引擎与编辑器，具备照片级逼真的渲染功能、动态物理与效果、栩栩如生的动画、健壮的数据转换接口等。                                                                                                                |       |
+| [Visual Studio Code](https://code.visualstudio.com/)                                         | 微软公司出品的一个运行于 Mac OS X、Windows 和 Linux 之上的，针对于编写现代 Web 和云应用的跨平台源代码编辑器。                                                                                                                                                   |       |
+| [WebStorm](https://www.jetbrains.com/webstorm/)                                              | Jetbrains 公司旗下一款 JavaScript 开发工具。已经被广大中国 JS 开发者誉为「Web 前端开发神器」、「最强大的 HTML5 编辑器」、「最智能的 JavaScript IDE」等。与 IntelliJ IDEA 同源，继承了 IntelliJ IDEA 强大的 JS 部分的功能。                                      |       |
+| [Xcode](https://developer.apple.com/cn/xcode/)                                               | 苹果官方出品的 IDE。用于开发 Mac，iPhone，iPad，Apple TV，Apple Watch 等应用。                                                                                                                                                                                  |       |
+| [wechatwebdevtools](https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html) | 腾讯官方提供用于微信 Web 开发和微信小程序开发的工具。                                                                                                                                                                                                           |       |
 
 ### 版本控制
 
-| 名 称          | 功能简述 | 相 关 |
-| -------------- | -------- | ----- |
-| Cornerstone    |          |       |
-| Git            |          |       |
-| GitHub Desktop |          |       |
-| Gitter         |          |       |
-| SVN            |          |       |
-| Sourcetree     |          |       |
+| 名 称                                            | 功能简述                                                                                                                                       | 相 关 |
+| ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
+| [Cornerstone](https://cornerstone.assembla.com/) | Mac 上最佳的 SVN 管理工具。                                                                                                                    |       |
+| [GitHub Desktop](GitHub Desktop)                 | GitHub 官方出品的桌面客户端。                                                                                                                  |       |
+| [Git](https://git-scm.com/)                      | 基于 Linux 内核开发的版本控制工具。                                                                                                            |       |
+| [SVN](http://subversion.apache.org/)             | 开放源代码的版本控制系统。通过采用分支管理系统的高效管理，简而言之就是用于多个人共同开发同一个项目，实现共享资源，实现最终集中式的管理。       |       |
+| [Sourcetree](https://www.sourcetreeapp.com/)     | Windows 和 Mac OS X 下免费的 Git 和 Hg 客户端管理工具，同时也是版本控制系统工具。界面精美简洁，支持创建、克隆、提交、push、pull 和合并等操作。 |       |
 
 ### 数据库
 
-| 名 称             | 功能简述 | 相 关 |
-| ----------------- | -------- | ----- |
-| Cyberduck         |          |       |
-| ForkLift          |          |       |
-| Medis             |          |       |
-| MySQLWorkbench    |          |       |
-| Navicat Premium   |          |       |
-| SQLPro for SQLite |          |       |
-| Studio 3T         |          |       |
+| 名 称                                                        | 功能简述                                                                                                                                                       | 相 关 |
+| ------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
+| [Medis](http://getmedis.com/)                                | [开源](https://github.com/luin/medis) 的 Redis 管理软件。                                                                                                      |       |
+| [MySQL Workbench](https://www.mysql.com/products/workbench/) | 一款专为 MySQL 设计的 ER / 数据库建模 工具。具有设计和创建新的数据库图示，建立数据库文档，以及进行复杂的 MySQL 迁移的作用。                                    |       |
+| [Navicat Premium](https://navicat.com.cn/)                   | 强大的数据库管理和设计工具，支持 Win、macOS 和 linux。直观的 GUI 让用户简单地管理 MySQL、MariaDB、MongoDB、SQL Server、SQLite、Oracle 和 PostgreSQL 的数据库。 |       |
+| [SQLPro Studio](https://www.sqlprostudio.com/)               | 数据库管理客户端工具，支持支持 MySQL、Microsoft SQL Server、MariaDB、Postgres、Oracle、SQLite 等数据库。                                                       |       |
+| [Studio 3T](https://studio3t.com/)                           | mogodb 数据库工具。支持导入导出，支持 sql 查询，支持语法填充，功能丰富。                                                                                       |       |
 
 ### 开发者工具
 
-| 名 称               | 功能简述              | 相 关 |
-| ------------------- | --------------------- | ----- |
-| Appicons            |                       |       |
-| Charles             |                       |       |
-| Core Animator       |                       |       |
-| Dash                |                       |       |
-| Easy APNs Provider  |                       |       |
-| FauxPas             |                       |       |
-| Genymotion          |                       |       |
-| Hopper Disassembler |                       |       |
-| IDA Pro             |                       |       |
-| Impactor            |                       |       |
-| JSONExport          | JSON 生成数据模型工具 |       |
-| Kaleidoscope        |                       |       |
-| MachOView           |                       |       |
-| Navicat Premium     |                       |       |
-| Oh My ZSH           |                       |       |
-| Packages            |                       |       |
-| PaintCode           | UI 与代码转换工具     |       |
-| Postman             |                       |       |
-| QuartzCode          |                       |       |
-| Reveal              | UI 调试神器           |       |
-| VirtualBox          |                       |       |
-| VisualJSON          |                       |       |
-| go2Shell            |                       |       |
-| iOS App Signer      |                       |       |
-| iReSign             |                       |       |
-| iTerm2              |                       |       |
+| 名 称                                                                     | 功能简述                                                                                                                                               | 相 关 |
+| ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ----- |
+| [Appicons](https://appicon.co/)                                           | 快速高效的 App 应用 icon 图标制作工具，可以帮助我们非常方便地将 App 图标调整成多个不同的尺寸。                                                         |       |
+| [Charles](https://www.charlesproxy.com/)                                  | 抓包工具。HTTP 代理服务器，HTTP 监视器，反转代理服务器。                                                                                               |       |
+| [Core Animator](http://www.coreanimator.com/)                             | 动画制作软件，可以自动生成 Objective-C、Swift 代码，帮助开发者快速在 App 中制作动画效果甚至是游戏。                                                    |       |
+| [Cydia Impactor](http://www.cydiaimpactor.com/)                           | ipa 文件自签名工具。Cydia Impactor 能帮助用户直接现在 Android 与 iOS 系统安装 ipa 文件。                                                               |       |
+| [Dash](https://kapeli.com/dash)                                           | 软件编程文档管理工具，可以浏览 API 文档，以及管理代码片段。Dash 自带了丰富的 API 文档，涉及各种主流的编程语言和框架。                                  |       |
+| [FauxPas](http://fauxpasapp.com/)                                         | Xcode 辅助工具，用以检查 Xcode 项目，找出常见的错误、隐藏的 bug、不良实践以及可维护性问题和风格问题。                                                  |       |
+| [Genymotion](https://www.genymotion.com/)                                 | Android 虚拟环境。可以提高测试自动化，或在网页中运行应用。                                                                                             |       |
+| [Hopper Disassembler](https://www.hopper-disassembler.app/)               | 二进制反编译工具，逆向分析工具。可用来反汇编，反编译和调试应用程序。                                                                                   |       |
+| [IDA Pro](https://www.hex-rays.com/products/ida/)                         | 交互式反汇编器，目前最棒的一个静态反编译软件。常用来做逆向工程。                                                                                       |       |
+| [JSONExport](https://github.com/Ahmed-Ali/JSONExport/)                    | Mac 下自动将 JSON 转换成模型对象的工具。                                                                                                               |       |
+| [Kaleidoscope](https://www.kaleidoscopeapp.com/)                          | 文件图片和文本比较工具，支持任意文本文档和图像文件，能够非常快速和准确的查找出不同之处和合并不同。                                                     |       |
+| [MachOView](https://sourceforge.net/projects/machoview/)                  | [开源](https://github.com/gdbinit/MachOView) 的 Mac 平台在可查看 MachO 文件格式信息的工具。                                                            |       |
+| [Oh My ZSH](https://ohmyz.sh/)                                            | [开源](https://github.com/ohmyzsh/ohmyzsh) 命令行工具，基于 zsh 命令行，提供了主题配置，插件机制，已经内置的便捷操作。                                 |       |
+| [Packages](http://s.sudre.free.fr/Software/Packages/resources.html)       | 为 Mac 用户提供的 pkg 安装程序制作工具。                                                                                                               |       |
+| [PaintCode](http://www.paintcodeapp.com/)                                 | UI 与代码转换工具，矢量绘图应用程序。可即时生成 Objective-C，Swift，Android，JavaScript 绘图代码。                                                     |       |
+| [Postman](https://www.postman.com/)                                       | API 调试、Http 请求工具。帮助快速测试 API。                                                                                                            |       |
+| [QuartzCode](http://quartzcodeapp.com/)                                   | 快速，轻量，强大的动画工具，可快速得到原生的 ObjC/Siwft 代码。                                                                                         |       |
+| [Reveal](https://revealapp.com/)                                          | UI 调试神器，主要用于 iOS 应用和游戏的开发。方便开发者对应用程序进行连接，然后对各种界面和参数进行修改，同时 Reveal 还具有检查 UI 的视图和分层的功能。 |       |
+| [VisualJSON](https://apps.apple.com/cn/app/visual-json/id488709442?mt=12) | [开源](https://github.com/youknowone/VisualJSON) 的简单易用的 JSON 可视化工具。                                                                        |       |
+| [go2Shell](https://zipzapmac.com/Go2Shell)                                | 命令行工具，可以在 Finder 中打开终端。                                                                                                                 |       |
+| [iOS App Signer](https://dantheman827.github.io/ios-app-signer/)          | ipa 重签名工具。可以修改 iOS ipa 包中的证书和描述文件。                                                                                                |       |
+| [iReSign](https://github.com/maciekish/iReSign)                           | ipa 重签名工具。                                                                                                                                       |       |
+| [iTerm2](https://www.iterm2.com/)                                         | 专为 macOS 用户打造的命令行应用。可替代原生的 Terminal。                                                                                               |       |
+
