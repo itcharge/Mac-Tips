@@ -11,7 +11,8 @@
 
   接受新事物总需要有个磨合的过程嘛。请抱着第一次接触电脑一样的心态去学习使用 macOS 吧。等你适应之后，它将会成为你工作、生活、娱乐上的好伴侣。
 
-    
+
+---
 
 # 2. macOS 和 Windows 异同
 
@@ -45,13 +46,13 @@ macOS 上的常用快捷键和 Windows 略有不同，大体上是相似的。
 
 macOS 的桌面、顶部菜单栏、Dock 程序坞、Finder 等都和 Windows 有相似的地方，又有特别的地方。这些我们在接下来的 macOS 使用中来讲解。
 
-
+---
 
 # 3. macOS 使用
 
 ## 3.1 登录
 
-在开机并设置新的 Mac 时，你将会看到提示使用 Apple ID 登陆的信息，当然也可以选择稍后登陆。使用 Apple ID 登陆可以访问所有 Apple 服务并使所有设备实现无缝协作。推荐使用 Apple ID 登陆。
+在开机并设置新的 Mac 时，你将会看到提示使用 Apple ID 登陆的信息，当然也可以选择稍后登陆。使用 Apple ID 登陆可以访问所有 Apple 服务并使所有设备实现无缝协作。强烈推荐使用 Apple ID 登陆。
 
 ![](http://qncdn.bujige.net/images/20200326121551.jpg)
 
@@ -105,7 +106,7 @@ macOS 系统下的软件后缀名为`.app`。和 Windows 下的软件并不通�
 
 macOS 的软件一般来说有两种常用下载方式：
 
-- App Store：苹果官方提供的 App 商城。
+- App Store：苹果官方提供的 App 商城，在 macOS 系统的「启动台」中或者「应用程序」文件夹中可以找到 App Store 的应用软件。
 - 应用官网：如果应用没有在 App Store 上线，可以去应用的官网下载 macOS 版本的软件。
 
 > 注：关于 Mac 有哪些好用的软件，以及这些软件的官方下载渠道具体可以看我写的这篇文章： [**04 - macOS 软件清单**](https://github.com/bujige/macOS-Tips/blob/master/04%20-%20macOS%20%E8%BD%AF%E4%BB%B6%E6%B8%85%E5%8D%95.md)。
