@@ -17,23 +17,133 @@
 
 ![](http://qncdn.bujige.net/images/20200716182036.jpg)
 
-## 1.2 macOS Catalina 10.15系统
+## 1.2 macOS Catalina 10.15 系统
 
+1. 打开「启动台」，选择「终端」软件，输入以下命令：`sudo xattr -r -d com.apple.quarantine /Applications/XXX.app`
+   - 注意：`/Applications/XXX.app` 换成你的 App 路径（将 App 文件拖入终端即可自动显示路径）。
+2. 重启 App。
 
+## 1.3 macOS Catalina 10.15.4 系统
 
-## 1.4 macOS Catalina 10.15.4 系统
+1. 安装 Command Line Tools 工具：打开「启动台」，选择「终端」软件，输入以下命令：`xcode-select --install`
 
+2. 继续在终端输入以下命令：`sudo codesign --force --deep --sign - /Applications/XXX.app`
 
+   - 注意：`/Applications/XXX.app` 换成你的 App 路径（将 App 文件拖入终端即可自动显示路径），以下命令行步骤均要替换。
 
-# 已损坏，无法打开。 您应该将它移到废纸篓
+3. 重启 App。
 
+4. 错误解决：
 
+   如果出现以下错误提示：
 
-系统升级到 macOS Catalina（10.15）之后，
+   - `/文件位置 : replacing existing signature`
+   - `/文件位置 : resource fork,Finder information,or similar detritus not allowed`
+
+   那么，则在「终端」执行：`xattr -cr /Applications/XXX.app` 
+
+   然后再执行步骤 2 的命令：`sudo codesign --force --deep --sign - /Applications/XXX.app`
+
+## 1.4 关闭 SIP
+
+如果还不行，可以尝试关闭 SIP 机制（系统完整性保护）。
+
+这是因为 SIP 机制会限制破解文件的调用，所以要关闭 SIP。
+
+1. 查看 SIP 状态：打开「启动台」，选择「终端」软件，输入以下命令：`csrutil status` 如果显示是 `enabled` 则表示 SIP 为打开状态，如果显示是 `disabled`。
+2. 如果显示 `enabled` 则需要关闭 SIP。具体操作如下：
+   1. 重启 Mac，按住键盘上 「Command ⌘ + R」 组合键，直到屏幕上出现苹果的标志和进度条，进入 Recovery 模式。
+   2. 在屏幕最上方的工具栏找到实用工具（从左向右数第 3 个），打开「终端」，输入以下命令：`csrutil disable`，然后按回车。
+   3. 关掉「终端」，重启 Mac。
+   4. 重启之后，可以在终端按照步骤 1 查看 SIP 状态。
+3.  查看 SIP 为关闭状态之后，打开 App。
+4. 建议能够打开 App 之后，再打开 SIP，可以通过步骤 2 并执行打开 SIP 的命令：`csrutil enable`
+
+---
 
 # 2. Mac App Store 下载失败
 
+可尝试下面两种方法：
+
+## 2.1 打开 Debug 菜单，刷新 Mac App Store 的 `.plist` 文件
+
+1. 先彻底关闭退出 App Store 软件，可以点击屏幕左上角的  标志，选择「强制退出」，选中「App Store」软件，点击「强制退出」。
+2. 打开「启动台」，选择「终端」软件，输入以下命令：`defaults write com.apple.appstore ShowDebugMenu -bool true`。   
+3. 重新启动 App Store，尝试下载。
+
+## 2.2 更改网络代理
+
+1. 先彻底关闭退出 App Store 软件，可以点击屏幕左上角的  标志，选择「强制退出」，选中「App Store」软件，点击「强制退出」。
+2. 按照以下路径进行点击：「」->「系统偏好设置」->「网络」->「Wi-Fi 页面」-> 右下角选择「高级」->「代理」。
+3. 将「代理」中的「网页代理（HTTP）」和「安全网页代理（HTTPS）」的选项勾选去掉，然后点击「好」。
+4. 然后再打开 App Store 就好了。
+
+---
+
 # 3. 无法识别移动硬盘
 
-# 4. Mac 下显示 / 隐藏文件命令
+如果是因为没有正确弹出外置移动硬盘，可以尝试下面的命令，正确移除移动硬盘。
+
+1. 打开「启动台」，选择「终端」软件，输入以下命令：`diskutil list`
+
+   此时，终端会显示你的硬盘列表，如下所示：
+
+   ```
+   /dev/disk0 (internal, physical):
+      #:                       TYPE NAME                    SIZE       IDENTIFIER
+      0:      GUID_partition_scheme                        *251.0 GB   disk0
+      1:                        EFI EFI                     209.7 MB   disk0s1
+      2:                 Apple_APFS Container disk1         250.8 GB   disk0s2
+   
+   /dev/disk1 (synthesized):
+     .......
+   
+   /dev/disk2 (external, physical):
+      #:                       TYPE NAME                    SIZE       IDENTIFIER
+      0:     FDisk_partition_scheme                        *30.8 GB    disk2
+      1:               Windows_NTFS                         29.9 GB    disk2s1
+   ```
+
+2. 找到出问题的移动硬盘对应项，比如上图是 `/dev/disk2`。
+
+   - **注意：千万小心别看错了，别把系统盘给移除了。**
+
+3. 继续在「终端」执行下面的卸载方法：`diskutil unmountDisk /dev/disk2` ，按回车继续。
+
+4. 继续在「终端」执行下面的弹出方法：`diskutil eject /dev/disk2`，按回车继续。
+
+5. 最后拔下移动硬盘，再重新插入。
+
+---
+
+# 4. USB 连接 iPhone，响个不停。
+
+如果我们使用的手机是 iPhone，通过数据线连接 Mac 的时候，iPhone 会响个不停，充电状态总是自动的连上，然后又断开，然后再连上。
+
+可以通过下面两种方式解决问题：
+
+## 4.1 方式 1：旧系统尝试
+
+1. 打开「启动台」，选择「终端」软件，输入以下命令：`sudo killall -STOP -c usbd`，然后按回车，输入密码，继续按回车。
+   - 注意：输入上面命令，可能会关闭手机充电，或者使手机充电变慢。如果需要恢复，则输入以下恢复命令：`sudo killall -CONT -c usbd`
+
+## 4.2 方式 2：新系统尝试
+
+1. 打开「启动台」，选择「终端」软件，输入以下命令：`sudo pkill -9 usbd`，然后按回车，输入密码，继续按回车。
+
+---
+
+# 5. Mac 下显示 / 隐藏文件
+
+同 Windows 一样，macOS 会将重要文件隐藏起来，以防止意外删除这些文件而损坏系统。但是，有时候我们需要显示隐藏文件。则需要使用如下方法。
+
+## 5.1 macOS 10.6~10.8 系统：
+
+1. 打开「启动台」，选择「终端」软件，输入以下命令，显示隐藏文件：`defaults write com.apple.Finder AppleShowAllFiles Yes && killall Finder`
+2. 如果需要不显示隐藏文件，则执行下面的命令：`defaults write com.apple.Finder AppleShowAllFiles No && killall Finder`
+
+## 5.2 macOS Mavericks 10.9 及以上系统：
+
+1. 打开「启动台」，选择「终端」软件，输入以下命令，显示隐藏文件：`defaults write com.apple.finder AppleShowAllFiles Yes && killall Finder`
+2. 如果需要不显示隐藏文件，则执行下面的命令：`defaults write com.apple.finder AppleShowAllFiles No && killall Finder`
 
