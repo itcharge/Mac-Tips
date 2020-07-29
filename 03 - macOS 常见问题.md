@@ -147,3 +147,36 @@
 1. 打开「启动台」，选择「终端」软件，输入以下命令，显示隐藏文件：`defaults write com.apple.finder AppleShowAllFiles Yes && killall Finder`
 2. 如果需要不显示隐藏文件，则执行下面的命令：`defaults write com.apple.finder AppleShowAllFiles No && killall Finder`
 
+---
+
+# 6. 禁用软件的暗黑模式 / Dark Mode
+
+macOS Mojave 10.14 引入了系统层面的深色模式。但是开启系统的深色模式之后，不光会影响系统自带的应用程序，还会影响第三方的应用程序。如果第三方应用程序没有很好适配的话，显示效果就会很差，甚至会影响使用（例如 「微云同步助手」）。
+
+![](http://qncdn.bujige.net/images/20200729171657.jpg)
+
+可以看到深色模式下部分内容缺失。我们可以通过终端命令来禁用某一软件的深色模式。具体步骤如下：
+
+1. 打开「访达」，选择「前往」，点击「应用程序」。找到你要禁用的「应用程序.app」，例如「微云同步助手.app」，记住该软件名字。
+
+2. 打开「启动台」，选择「终端」软件，输入以下命令来查看应用程序的 Bundle ID：`osascript -e 'id of app "微云同步助手"'`。
+
+   - 其中 **微云同步助手** 需要替换为上一步你看到的软件名字。
+
+3. 继续在「终端」输入以下命令：defaults write com.tencent.WeiyunResona NSRequiresAquaSystemAppearance -bool Yes`
+
+   - 其中 **com.tencent.WeiyunResona** 需要替换为上一步中显示的应用程序 Bundle ID。
+
+   ![](http://qncdn.bujige.net/images/20200729182844.jpg)
+
+4. 重启应用程序，应该已经成功禁用该程序的深色模式了。
+
+> [附] 常用应用程序禁用深色模式命令：
+>
+> - 网易云音乐：` defaults write com.netease.163music NSRequiresAquaSystemAppearance -bool YES`
+> - iBooks：`defaults write com.apple.iBooksX NSRequiresAquaSystemAppearance -bool YES`
+> - XCode：`defaults write com.apple.dt.Xcode NSRequiresAquaSystemAppearance -bool YES`
+> - QQ：`defaults write com.tencent.qq NSRequiresAquaSystemAppearance -bool YES`
+
+
+
