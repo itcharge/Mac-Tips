@@ -1,4 +1,4 @@
-# macOS-Tips 
+# macOS-Tips
 
 ## 项目简介
 

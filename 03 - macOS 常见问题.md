@@ -174,9 +174,8 @@ macOS Mojave 10.14 引入了系统层面的深色模式。但是开启系统的�
 > [附] 常用应用程序禁用深色模式命令：
 >
 > - 网易云音乐：` defaults write com.netease.163music NSRequiresAquaSystemAppearance -bool YES`
+> - QQ：`defaults write com.tencent.qq NSRequiresAquaSystemAppearance -bool YES`
 > - iBooks：`defaults write com.apple.iBooksX NSRequiresAquaSystemAppearance -bool YES`
 > - XCode：`defaults write com.apple.dt.Xcode NSRequiresAquaSystemAppearance -bool YES`
-> - QQ：`defaults write com.tencent.qq NSRequiresAquaSystemAppearance -bool YES`
-
-
+> - Sourcetree：`defaults write com.torusknot.SourceTreeNotMAS NSRequiresAquaSystemAppearance -bool YES`
 
