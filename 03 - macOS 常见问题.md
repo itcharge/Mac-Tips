@@ -56,7 +56,7 @@
    2. 在屏幕最上方的工具栏找到实用工具（从左向右数第 3 个），打开「终端」，输入以下命令：`csrutil disable`，然后按回车。
    3. 关掉「终端」，重启 Mac。
    4. 重启之后，可以在终端按照步骤 1 查看 SIP 状态。
-3.  查看 SIP 为关闭状态之后，打开 App。
+3. 查看 SIP 为关闭状态之后，打开 App。
 4. 建议能够打开 App 之后，再打开 SIP，可以通过步骤 2 并执行打开 SIP 的命令：`csrutil enable`
 
 ---
@@ -178,4 +178,10 @@ macOS Mojave 10.14 引入了系统层面的深色模式。但是开启系统的�
 > - iBooks：`defaults write com.apple.iBooksX NSRequiresAquaSystemAppearance -bool YES`
 > - XCode：`defaults write com.apple.dt.Xcode NSRequiresAquaSystemAppearance -bool YES`
 > - Sourcetree：`defaults write com.torusknot.SourceTreeNotMAS NSRequiresAquaSystemAppearance -bool YES`
+
+# 7. 按空格键无法进行预览问题
+
+可以通过重启「访达（Finder）」解决。
+
+键盘按下 **Command ⌘ + Option ⌥ + Esc** 组合键，选中「访达（Finder）」，然后点击「重新开启（Relaunch）」。
 
